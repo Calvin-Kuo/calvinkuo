@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Calvin Kuo. I like building things.
+      <p>Hi, I&apos;m Calvin Kuo. I am a System Engineering Manager.
         I am a <a href="https://icme.stanford.edu/">Cornell</a> graduate. Before Cornell, I went to Rutgers.
         , <a href="https://planet.com">Planet</a>
         , <a href="https://planetaryresources.com">Planetary Resources</a>
@@ -35,7 +35,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Calvin Y&apos;Kuo <Link to="/">https://www.linkedin.com/in/calvin-y-kuo/</Link>.</p>
     </section>
   </section>
 );
