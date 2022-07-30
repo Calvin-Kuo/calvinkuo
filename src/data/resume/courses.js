@@ -1,7 +1,7 @@
 const courses = [
   {
-    title: 'Convex Optimization',
-    number: 'EE 364a',
+    title: 'Project Management',
+    number: 'ENMGT 5900',
     link: 'http://stanford.edu/class/ee364a/',
     university: 'Stanford',
   },
