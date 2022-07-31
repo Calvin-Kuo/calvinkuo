@@ -18,14 +18,14 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
+      <p> Welcome to my personal website. My name is Calvin Kuo. Please feel free to read more <Link to="/about">about me</Link>,
+        or you can learn more about me by checking out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/calvin-kuo/calvinkuo">here</a>.</p>
+      <p> You can view the source code for my website <a href="https://github.com/calvin-kuo/calvinkuo">here</a>.</p>
     </article>
   </Main>
 );

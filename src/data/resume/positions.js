@@ -1,9 +1,9 @@
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Co-founder, C.T.O.',
-    link: 'https://arthena.com',
-    daterange: 'January 2014 - Present',
+    company: 'AT&T',
+    position: 'System Engineering Manager / Product Manager',
+    link: 'https://att.com',
+    daterange: 'April 2022 - Present',
     points: [
       'Deployed quantitative strategies to predict the value of fine art in various pricing contexts.',
       'Built production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Dagster, Postgres, etc. on GCP with Kubernetes.',
@@ -12,20 +12,22 @@ const positions = [
     ],
   },
   {
-    company: 'Skeptical Investments',
-    position: 'Co-founder',
-    link: 'http://skepticalinvestments.biz',
-    daterange: 'April 2017 - Present',
+    company: 'AT&T (Xandr)',
+    position: 'Product Manager II',
+    link: 'https://xandr.com',
+    daterange: 'April 2021 - April 2022',
     points: [
-      'Founded a micro-vc fund to throw token amounts of money at problems I find interesting.',
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
+      'Administered agile SAFe production by measuring KPIs and delegating data integration resources to deliver core data and advertising capabilities through Snowflake that power $5-7B in advertising revenues across AT&T, Xandr, and WarnerMedia.',
+      'Collaborated cross-functionally with 8 engineering, data science, and legal teams to offer business insights to streamline program organization and overall project workflow by 20% for 11 simultaneous data access and advertising insights projects',
+      'Prioritized product requirements in Jira and generated data visualization reports using PowerBI for open issues and burn rates',
+      'Introduced methodologies and best practices to save 5-hours of engineering effort per week for tune adjustment modeling',
     ],
   },
   {
-    company: 'Enveritas',
-    position: 'Consultant',
-    link: 'http://enveritas.org',
-    daterange: 'September 2016 - 2018',
+    company: 'AT&T',
+    position: 'Project Manager',
+    link: 'https://att.com',
+    daterange: 'July 2020 - April 2021',
     points: [
       'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
       'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
