@@ -12,19 +12,16 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
       </Link>
       <header>
-        <h2>Calvin Y&apos;Kuo</h2>
+        <h2>Calvin Y. Kuo</h2>
         <p><a href="mailto:calvinykuo@gmail.com">calvinykuo@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
-      <p>Hi, I&apos;m Calvin Kuo. I am a System Engineering Manager.
-        I am a <a href="https://icme.stanford.edu/">Cornell</a> graduate. Before Cornell, I went to Rutgers.
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <h2>About Me</h2>
+      <p>Hi, my name is Calvin Kuo. I am a Software / System Engineering Manager at <a href="https://att.com/">AT&amp;T</a>.
+        While working full-time, I am also a Master of Engineering in Engineering Management Candidate at <a href="https://cornell.edu/">Cornell University</a>.
+        Previously, I earned a Bachelor of Science in Computer Science with a Minor in Entrepreneurship from <a href="https://rutgers.edu">Rutgers University - New Brunswick</a>.
       </p>
       <ul className="actions">
         <li>
@@ -35,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Calvin Y&apos;Kuo <Link to="/">https://www.linkedin.com/in/calvin-y-kuo/</Link>.</p>
+      <p className="copyright">&copy; Calvin Y. Kuo <Link to="/">https://www.linkedin.com/in/calvin-y-kuo/</Link>.</p>
     </section>
   </section>
 );
