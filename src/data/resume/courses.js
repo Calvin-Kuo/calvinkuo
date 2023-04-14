@@ -1,5 +1,17 @@
 const courses = [
   {
+    title: 'Engineering Management Project (Capstone)',
+    number: 'ENMGT 5910',
+    link: 'https://classes.cornell.edu/browse/roster/SP23/class/ENMGT/5910',
+    university: 'Cornell',
+  },
+  {
+    title: 'Decision Framing and Analytics',
+    number: 'ENMGT 5980',
+    link: 'https://classes.cornell.edu/browse/roster/FA22/class/ENMGT/5980',
+    university: 'Cornell',
+  },
+  {
     title: 'Project Management',
     number: 'ENMGT 5900',
     link: 'https://classes.cornell.edu/browse/roster/SP22/class/ENMGT/5900',
@@ -20,8 +32,13 @@ const courses = [
   {
     title: 'Data Science for Smart Cities',
     number: 'CS 672',
-    link:
-      'https://people.cs.rutgers.edu/~dz220/CS672S2020/home.html',
+    link: 'https://people.cs.rutgers.edu/~dz220/CS672S2020/home.html',
+    university: 'Rutgers',
+  },
+  {
+    title: 'Computer Graphics',
+    number: 'CS 428',
+    link: 'https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-428-introduction-to-computer-graphics',
     university: 'Rutgers',
   },
   {
@@ -31,9 +48,9 @@ const courses = [
     university: 'Rutgers',
   },
   {
-    title: 'Computer Graphics',
-    number: 'CS 428',
-    link: 'https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-428-introduction-to-computer-graphics',
+    title: 'Advanced Topics in Cognitive Science: Minds, Machines & Computation',
+    number: 'CS 443',
+    link: 'https://ruccs.rutgers.edu/academics/undergraduate/syllabi/51-185-416-advanced-topics-in-cognitive-science-minds-machines-computation-syllabus/file',
     university: 'Rutgers',
   },
   {
@@ -49,47 +66,34 @@ const courses = [
     university: 'Rutgers',
   },
   {
-    title: 'Introduction to Statistical Signal Processing',
-    number: 'EE 278B',
-    link: 'http://web.stanford.edu/class/ee278/',
-    university: 'Stanford',
+    title: 'Design and Analysis of Computer Algorithms',
+    number: 'CS 344',
+    link: 'https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms',
+    university: 'Rutgers',
   },
   {
-    title: 'Spacecraft Design',
-    number: 'AA 236A',
-    link: '',
-    university: 'Stanford',
+    title: 'Principles of Information and Data Management',
+    number: 'CS 336',
+    link: 'https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-336-principles-of-information-and-data-management',
+    university: 'Rutgers',
   },
   {
-    title: 'Advanced Programming',
-    number: 'CME 212',
-    link: '',
-    university: 'Stanford',
+    title: 'Computer Architecture',
+    number: 'CS 211',
+    link: 'https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-211-computer-architecture',
+    university: 'Rutgers',
   },
   {
-    title: 'Design Theory and Methodology',
-    number: 'MAE 397',
-    link:
-      'https://web.stanford.edu/group/designx_lab/cgi-bin/mainwiki/index.php/ME397_Design_Theory_%26_Methodology_Seminar',
-    university: 'Stanford',
-  },
-  {
-    title: 'Software Engineering Concepts',
-    number: 'CSE 442',
-    link: '',
-    university: 'Buffalo',
-  },
-  {
-    title: 'Hardware/Software Integrated System Design',
-    number: 'CSE 453',
-    link: '',
-    university: 'Buffalo',
+    title: 'Discrete Structures II',
+    number: 'CS 206',
+    link: 'https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-206-introduction-to-discrete-structures-ii',
+    university: 'Rutgers',
   },
   {
     title: 'Data Structures',
-    number: 'CS 250',
-    link: 'http://www.cse.buffalo.edu/~hungngo/classes/2013/Fall/250/',
-    university: 'Buffalo',
+    number: 'CS 112',
+    link: 'https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-112-data-structures',
+    university: 'Rutgers',
   },
   {
     title: 'Introduction to Digital Signal Processing',
