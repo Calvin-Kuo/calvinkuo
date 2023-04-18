@@ -5,10 +5,11 @@ const positions = [
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
-      'Deployed quantitative strategies to predict the value of fine art in various pricing contexts.',
-      'Built production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Dagster, Postgres, etc. on GCP with Kubernetes.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      'YC Alumn. Worked on everything. Built a 16-person team. Operated company for 6+ years.',
+      'Ideate, design, develop, and deploy iQ Insights (iQI) broadband diagnostic components integrated on AT&T 4G/5G stock devices, including embedded Android app, Agents, Profiles, Domain Filters, and Bright Diagnostic SDK (iOS and Android).',
+      'Orchestrate the device integration and certification of iQI diagnostic products across 15M+ reporting mobile platforms, 200+ hardware model variants, OS versions, and OEM specific release cycles on an agile release train using Confluence and Jira.',
+      'Build and refine PowerBI dashboards to prioritize KPI-impacting issue mitigation and organize timely QA and R&D binary deliveries, lab entry validations, and technical acceptances for 100+ device integrations across 3 software releases annually.',
+      'Deployed quantitative strategies to forecast binary delivery ETAs for Samsung device integrations.',
+      'Align 7 development teams across AT&T, Samsung, Motorola, Foxconn, and other OEMs to a shared technical direction and partner with those teams to elaborate interfaces and solutions for timely deployment of 5+ release candidates per quarter.',
     ],
   },
   {
@@ -18,7 +19,7 @@ const positions = [
     daterange: 'April 2021 - April 2022',
     points: [
       'Administered agile SAFe production by measuring KPIs and delegating data integration resources to deliver core data and advertising capabilities through Snowflake that power $5-7B in advertising revenues across AT&T, Xandr, and WarnerMedia.',
-      'Collaborated cross-functionally with 8 engineering, data science, and legal teams to offer business insights to streamline program organization and overall project workflow by 20% for 11 simultaneous data access and advertising insights projects',
+      'Collaborated cross-functionally with 8 engineering, data science, and legal teams to offer business insights to streamline program organization and overall project workflow by 20% for 11 simultaneous data access and advertising insights projects.',
       'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
       'Prioritized product requirements in Jira and generated data visualization reports using PowerBI for open issues and burn rates.',
       'Introduced methodologies and best practices to save 5-hours of engineering effort per week for tune adjustment modeling.',
@@ -30,9 +31,10 @@ const positions = [
     link: 'https://att.com',
     daterange: 'July 2020 - April 2021',
     points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Coordinated rapid development efforts across 3 AT&T, 1 SAP, and 1 Accenture engineering Scrum teams for a $35M sales compensation portfolio to build channels to migrate legacy on-premise platforms to SAP and VMWare Horizon hybrid cloud.',
+      'Strategized project roadmaps adhering to engineering bandwidth and integration of stakeholder feedback into requirements.',
+      'Supported analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Maximized engineering and UAT testing efficiency by 10% across 4 development and testing teams while mitigating risks.',
     ],
   },
   {
