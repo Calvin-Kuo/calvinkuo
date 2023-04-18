@@ -1,11 +1,13 @@
 
 # Intro
 
-I am a Software / System Engineering Manager at [AT&T](https://att.com) where I build tools to price fine art quickly, accurately, and at scale. I am also a Master of Engineering in Engineering Management Candidate at [Cornell University](https://cornell.edu). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a Software / System Engineering Manager at [AT&T](https://att.com). I am also a Master of Engineering in Engineering Management Candidate at [Cornell University](https://cornell.edu). I am particularly interested in the intersection between engineering and business management to gain a holistic view of the engineering process to define, design, and manage complex problems. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+At AT&T, I cross-functionally leading software engineering and data analyst teams to deliver 4G / 5G device diagnostics for Samsung, Qualcomm, and other OEMs. I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a Product Manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from Engineering teams to Sales, Marketing, and Legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
+
+My hunger for continuous learning has brought me to Cornell University, where I am currently pursuing a M.Eng. in Engineering Management. On the side, I also study the financial markets and trade.
 
 # Some history
 

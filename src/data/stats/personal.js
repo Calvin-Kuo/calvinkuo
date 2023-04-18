@@ -33,7 +33,7 @@ const data = [
   },
   {
     key: 'location',
-    label: 'Current city',
+    label: 'Home State',
     value: 'New Jersey, US',
   },
 ];
