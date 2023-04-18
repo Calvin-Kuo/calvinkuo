@@ -1,13 +1,13 @@
 const positions = [
   {
     company: 'AT&T',
-    position: 'System Engineering Manager / Product Manager',
+    position: 'Software / System Engineering Manager (PM)',
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
       'Ideate, design, develop, and deploy iQ Insights (iQI) broadband diagnostic components integrated on AT&T 4G/5G stock devices, including embedded Android app, Agents, Profiles, Domain Filters, and Bright Diagnostic SDK (iOS and Android).',
       'Orchestrate the device integration and certification of iQI diagnostic products across 15M+ reporting mobile platforms, 200+ hardware model variants, OS versions, and OEM specific release cycles on an agile release train using Confluence and Jira.',
-      'Build and refine PowerBI dashboards to prioritize KPI-impacting issue mitigation and organize timely QA and R&D binary deliveries, lab entry validations, and technical acceptances for 100+ device integrations across 3 software releases annually.',
+      'Build and refine PowerBI dashboards to triage KPI-impacting issue mitigation and organize timely QA and R&D binary deliveries, lab entry validations, and technical acceptances for 100+ device integrations across 3 software releases annually.',
       'Deployed quantitative strategies to forecast binary delivery ETAs for Samsung device integrations.',
       'Align 7 development teams across AT&T, Samsung, Motorola, Foxconn, and other OEMs to a shared technical direction and partner with those teams to elaborate interfaces and solutions for timely deployment of 5+ release candidates per quarter.',
     ],
@@ -33,7 +33,7 @@ const positions = [
     points: [
       'Coordinated rapid development efforts across 3 AT&T, 1 SAP, and 1 Accenture engineering Scrum teams for a $35M sales compensation portfolio to build channels to migrate legacy on-premise platforms to SAP and VMWare Horizon hybrid cloud.',
       'Strategized project roadmaps adhering to engineering bandwidth and integration of stakeholder feedback into requirements.',
-      'Supported analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
+      'Supported analysis to ensure data integrity using Pandas, t-SNE, SVMs, and other techniques.',
       'Maximized engineering and UAT testing efficiency by 10% across 4 development and testing teams while mitigating risks.',
     ],
   },
@@ -43,8 +43,9 @@ const positions = [
     link: 'https://admissions.rutgers.edu/',
     daterange: 'May 2019 - September 2020',
     points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
+      'Cultivated the first impression of Rutgers for thousands of prospective students each year through 25+ campus tours, 3 recruitment programs, and daily interactions with visiting families.',
+      'Worked in a constantly active office environment and exhibit courteous professionalism in answering undergraduate admissions inquiries online, on the phone, or in-person.',
+      'Demonstrated effective communication, problem solving, and teamwork while upholding the model values of being an ambassador on behalf of the Office of Undergraduate Admissions.',
     ],
   },
   {
@@ -53,8 +54,10 @@ const positions = [
     link: 'http://ruoncampus.rutgers.edu/',
     daterange: 'May 2019 - May 2020',
     points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
+      'Collaborated with Residence Life staff to respond to student concerns and crises, to maintain a positive living community, and to build relationships with students and the community at large.',
+      'Facilitated community development through meaningful individual interactions with 50+ residents, monthly floor meetings, and 9 residence hall programs annually.',
+      'Fostered and inspired strong, inclusive, and engaging communities; encourage and support students in their academic, social, and personal growth',
+      'Helped 50+ students develop transferable skills to succeed in a diverse global society and in a competitive job market.',
     ],
   },
   {
@@ -63,20 +66,23 @@ const positions = [
     link: 'http://ruoncampus.rutgers.edu/',
     daterange: 'May 2017 - May 2019',
     points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
+      'Provided over 30 first-year students in the Leadership Living-Learning Community with important guidance about academic, career, extra-curricular, and life successes.',
+      'Conducted multiple 1-on-1 meetings with students every semester to check-in on their academic progression and personal growth.',
+      'Mitigated unique conflicts and issues that arise between students by leveraging adaptive problem solving and conflict resolution techniques.',
+      'Collaborated with colleagues to successfully plan and execute logistics for a trip to the United Nations in New York City.',
+      'Worked directly with Rutgers Residence Life, Department of Leadership & Experiential Learning, and the School of Communication & Information to create effective monthly educational programs about leadership, organization, time management, self-confidence, and mental health.',
     ],
   },
   {
     company: 'Rutgers University Career Services',
     position: 'Computer Science Instructor',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
+    link: 'https://www.sasundergrad.rutgers.edu/welcome/majors/explore/computer-science',
+    daterange: 'March 2019 - May 2020',
     points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
+      'Spearheaded and taught a 10-week curriculum for a college level course called “Exploring Computer Science” for 25 first-year students.',
+      'Engaged students through thought-provoking discussions, topical area debates, hands-on augmented reality (AR) experiments, and lessons regarding artificial intelligence, blockchain technology, and software development.',
+      'Taught and inspired students about a myriad of computer science topics including security, AI, and Internet of Things (IoT).',
+      'Demonstrated consistently strong leadership skills, public-speaking abilities, and teaching techniques to engage students in the field of computer science.',
     ],
   },
   {
@@ -85,9 +91,11 @@ const positions = [
     link: 'https://att.com',
     daterange: 'June 2019 - August 2019',
     points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
+      'Scoped, prototyped, validated, and constructed next-generation software solutions for a high-valued project to transform E-911 public safety.',
+      'Orchestrated 8 agile Scrum teams of software engineers and architects on projects comprised of network elements and data stores.',
+      'Managed program iterations and features as a key product evangelist on internal and external teams saving the project $210k.',
+      'Collaborated with a group of engineers to prototype and engineer a revolutionary HBO Virtual Reality (VR) streaming experience using the Unity game engine and Blender as part of the Intern Innovation Challenge',
+      'Pitched and live demoed our Virtual Reality (VR) streaming product to senior leadership to gain approval for funding.',
     ],
   },
   {
@@ -98,7 +106,7 @@ const positions = [
     points: [
       'Serve as a student ambassador for Rutgers School of Arts and Sciences (SAS) to plan an execute academic programs on behalf of the school.',
       'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SAS nationally, and photographing events.',
-      'Assist with Rutgers Open House and Academic Planning and Advising Days for thousands of prospective and new first-year students.',
+      'Assist with Rutgers Open House and Academic Planning and Advising Days for 3,500+ of prospective and new first-year students.',
       'Collaborate with academic deans and leadership to promote the School of Arts and Sciences brand.',
     ],
   },
@@ -106,11 +114,25 @@ const positions = [
     company: 'Huawei',
     position: 'Software Engineer Intern',
     link: 'https://www.huawei.com/us/',
-    daterange: 'June 2018 – August 2018',
+    daterange: 'June 2018 - August 2018',
     points: [
       'Engineered a dynamic $9M cloud management platform leveraging REST APIs and Java based on hybrid cloud architecture.',
-      'Supported the development of production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Dagster, Postgres, etc. with Kubernetes.',
+      'Supported the development of production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Postgres, etc. with Kubernetes.',
       'Facilitated daily meetings with international clients and contractors concerning virtual machines, Kubernetes, and containers.',
+      'Troubleshooted development roadblocks and mitigate immediate risks by meeting with cloud partners and respective engineering teams, such as Stratoscale and Abiquo.',
+      'Composed data analytics reports using SQL-based Looker Blocks to encapsulate performance and growth metrics for CEO.',
+    ],
+  },
+  {
+    company: 'Johnson & Johnson',
+    position: 'Software Research and Development Co-Op',
+    link: 'https://www.jnj.com/',
+    daterange: 'January 2018 - April 2018',
+    points: [
+      'Developed, implemented, and delivered 3 digital health software elements for biosensors, health tracking, and mobile devices.',
+      'Analyzed product development data metrics and models to advise global technology investment and procurement portfolios.',
+      'Consolidated and rationalized market requirements into product plans through clear technical white papers and case studies.',
+      'Provided insights into consumer packaged goods (CPG) industry including an understanding of product development life-cycle.',
     ],
   },
 ];
