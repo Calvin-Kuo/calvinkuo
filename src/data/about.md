@@ -1,27 +1,28 @@
 
-# Intro
+# Introduction
 
 I am a Software / System Engineering Manager at [AT&T](https://att.com). I am also a Master of Engineering in Engineering Management Candidate at [Cornell University](https://cornell.edu). I am particularly interested in the intersection between engineering and business management to gain a holistic view of the engineering process to define, design, and manage complex problems. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
-At AT&T, I cross-functionally leading software engineering and data analyst teams to deliver 4G / 5G device diagnostics for Samsung, Qualcomm, and other OEMs. I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a Product Manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from Engineering teams to Sales, Marketing, and Legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
+At AT&T, I am cross-functionally leading software engineering and data analyst teams to deliver 4G / 5G device diagnostics for Samsung, Qualcomm, and other OEMs. I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a Product Manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from Engineering teams to Sales, Marketing, and Legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
+
 
 My hunger for continuous learning has brought me to Cornell University, where I am currently pursuing a M.Eng. in Engineering Management. On the side, I also study the financial markets and trade.
 
-# Some history
+# Some History
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- My parents both studied Computer Science at their universities, so I became familiar with computers from a young age.
 
 - We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- In . I might have endangered her business by using her computer too much.
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+- At 7, my parents gifted me a Gameboy for the 14 hour flight to China. Besides this being my first time visiting Asia, this was the first time I had a gaming device of any kind --so as you can imagine I was ecstatic.
 
 - At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). It was a website for my Club Penguin and it was terrible (but I did not think so at the time).
 
 - I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
 
@@ -43,62 +44,57 @@ My hunger for continuous learning has brought me to Cornell University, where I 
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
-# I like
+# I like...
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
+- Investing / Trading Stocks
+- Soccer
+- Swimming
+- Airplanes
+- Traveling
+- Food (if you got a recommendation, please reach out)
+- Learning new things
 - Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
 - [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- Friendly and Driven People :)
 
 # Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited: Canada, England, France, and Switzerland.
-- In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast.
+- I was born and raised in the Garden State of New Jersey.
+- My current responsibilities at AT&T has me flying to Seattle, Washington quite a bit.
+- I have been to ~ 20 countries, a few of which are a little fuzzy in my memory, and many of which I would like to revisit (especially Japan).
+- In 2016, I visited: Denmark (Copenhagen), Finland (Helsinki), Germany (Berlin), Russia (St. Petersberg), Swedan (Stockholm).
+- In 2017, I visited: Hawaii (Honolulu, Maui), Virginia, Washington D.C.
+- In 2018, I did a software engineering internship in Beijing, China which gave me the opportunity to explore: Hong Kong, Shanghai, Fuzhou, and Japan (Tokyo, Osaka, Kyoto).
+- In 2019, I visited: Florida (Miami)
+- In 2020, I barely traveled 200 feet. I stayed in New Jersey.
+- In 2021, I stayed in the US and visited: California (Irvine, Newport, San Diego), Florida (Fort Lauderdale, Boca Raton) Illinois (Chicago)
+- In 2022, I felt comfortable traveling abroad again and visited: Canada (Niagra Falls, Toronto), France (Paris), Italy (Milan, Rome, Venice)
+- In 2023, I will visit: Germany, Malaysia, Scotland, Singapore, Switzerland, and Thailand
 
-# Fun facts
+# Odd Things I Have Learned
+- Social Security Numbers were not meant to be used for US citizen identification.
+- There is a ladder in Jerusalem that could start a war if moved.
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a [cruiser](https://landyachtz.com/boards/cruiser/), [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric skateboard](https://boostedusa.com/collections/electric-skateboards/products/boosted-mini-x) every single day.
-- I added this page because so many people complained that my site was just my resume.
+# Fun Facts
+
+- I have a passion for the stock market and have built complex spreadsheets and data visualizations to support my trading (with great returns of 17%+ YoY).
+- I am an Apple geek; I follow Apple rumors, launch events, and updates like high school teens follow their favorite celebrity.
+- I could juggle a soccer ball (of football for everyone outside the US) 100+ times without the ball hitting the ground.
+- I am susceptable to Fear of Missing Out --better known as FOMO. Consequently, I always "go for it" when possible so I do not have regrets later.
+- I added this part because so people said my website was just my resume.
 
 # I dream of
 
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- you not checking the commit history for earlier drafts of this file.
+- making an undeniably profound impact.
+- flying a plane (and having passengers that trust me to fly a plane).
+- always finding inspiration from new connections.
+- enabling a brighter future for those around me.
+- continuously learning to expand my horizons.
+- becoming a United Airlines Million Miler (I know... it is ludicrous)
 
-# Websites from people I admire
+# People I admire
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com)
+- [Jenna Rhodes](https://www.linkedin.com/in/jenna-rhodes-499501132)
+- [Nicholas Kuo](https://www.linkedin.com/in/nicholaskuo)
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
+If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I have not included you. Reach out and I'll add you.
