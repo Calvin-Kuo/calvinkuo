@@ -79,14 +79,14 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 - I have a passion for the stock market and have built complex spreadsheets and data visualizations to support my trading (with great returns of 17%+ YoY).
 - I am an Apple geek; I follow Apple rumors, launch events, and updates like high school teens follow their favorite celebrity.
-- I could juggle a soccer ball (of football for everyone outside the US) 100+ times without the ball hitting the ground.
+- I could juggle a soccer ball (or football for everyone outside the US) 100+ times without the ball hitting the ground.
 - I am susceptable to Fear of Missing Out --better known as FOMO. Consequently, I always "go for it" when possible so I do not have regrets later.
 - I added this part because so people said my website was just my resume.
 
 # I dream of
 
 - making an undeniably profound impact.
-- flying a plane (and having passengers that trust me to fly a plane).
+- flying a plane (and having passengers who trust me to fly a plane).
 - always finding inspiration from new connections.
 - enabling a brighter future for those around me.
 - continuously learning to expand my horizons.
