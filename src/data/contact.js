@@ -31,12 +31,12 @@ const data = [
   },
   /*
   {
-    link: 'https://angel.co/michael-d-angelo',
+    link: 'https://angel.co/calvin-kuo',
     label: 'Angel List',
     icon: faAngellist,
   },
   {
-    link: 'https://twitter.com/dangelosaurus',
+    link: 'https://twitter.com/calvin2kuo4u',
     label: 'Twitter',
     icon: faTwitter,
   },

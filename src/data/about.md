@@ -7,6 +7,7 @@ I am a Software / System Engineering Manager at [AT&T](https://att.com). I am al
 
 At AT&T, I am cross-functionally leading software engineering and data analyst teams to deliver 4G / 5G device diagnostics for Samsung, Qualcomm, and other OEMs. I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a Product Manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from Engineering teams to Sales, Marketing, and Legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
 
+I focus on uncovering opportunites to create value rather than focusing on solely on backlog items. I continuously measure outcomes and decide action items based on evidence. I strive for partnership with people and nevery shy away from conflicts; I do not allow anti-patterns to get in my way. I inspire teams and empower them to solve meaningful problems however they see fit. 
 
 My hunger for continuous learning has brought me to Cornell University, where I am currently pursuing a M.Eng. in Engineering Management. On the side, I also study the financial markets and trade.
 
@@ -14,33 +15,41 @@ My hunger for continuous learning has brought me to Cornell University, where I 
 
 - My parents both studied Computer Science at their universities, so I became familiar with computers from a young age.
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- As a kid, I remember playing with my father's clunky laptop where I learned grammar and math. I might have endangered his business by using his computer too much.
 
-- In . I might have endangered her business by using her computer too much.
+- At 5, I began learning how to swim and ice skate competitively. After a year, I decided to stick with swimming and give up ice skating because I preferred warm sports over cold sports.
+
+- At 6, I began Chinese school where I was *cough*forced*cough* to learn how to read, write, listen, and speak Simplified Chinese. For the next 12 years, my Saturdays were dedicated to Chinese school (6 days of school a week). It was also the year I accidentally broke my father's Motorola Razr flip phone from using it too much.
 
 - At 7, my parents gifted me a Gameboy for the 14 hour flight to China. Besides this being my first time visiting Asia, this was the first time I had a gaming device of any kind --so as you can imagine I was ecstatic.
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- At 8, my parents bought a new Dell destop computer. I learned how to use Microsoft Word and PowerPoint, which I then used for my homework.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). It was a website for my Club Penguin and it was terrible (but I did not think so at the time).
+- At 9, I began playing club soccer (or football for my friends outside the U.S.). I also created my first email account (it was a Gmail). I felt like a boss whenever I got an email.
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). It was a website for my Club Penguin and it was terrible (but I did not think so at the time). I also made Club Penguin Youtube videos.
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil).
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
+- When I was 12, I learned anatomy and found myself incredibly interested in pursuing a field of surgery. I was not afraid of blood, but I was afraid of shots.
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
+- At 14, I learned about the stock market and investing concepts. My first stock was Apple [(APPL)](https://investor.apple.com/stock-price/default.aspx) as a gift from my parents. I also competed in my high school's [MarketWatch Virtual Stock Exchange Game](https://www.marketwatch.com/games) where I won 1st place. This was the start of my fever-passion for the markets.
 
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
+- At 15, I was stressed about SATs, APs, extra-curriculars (i.e.: student government, volunteer hours, varsity sports, National Honor Society), and college applications. This year was a blur for me. 
 
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
+- At 16, I took my first computer science course (C++) with a teacher that looked like Ghandi. I wanted to learn how to create my own games which sparked my interest in computer science. I also bought my first phone: a gold iPhone 6. I guess this was the start of me being an Apple fanboy. This year I also passed my AP Chinese exam, graduated Chinese school, and reclaimed my Saturdays.
 
-- At 18, In the summer before college, my friends and I started playing [Muggle Quidditch](https://en.wikipedia.org/wiki/Quidditch_(sport)). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
+- At 17, I bought my first laptop. It was a silver Macbook Pro. One of the first things I did with my Macbook Pro: apply to universities to study Computer Science. I also took my second computer science course (Java and OOP).
 
-- At 19, I took my first graduate course and published my first academic paper.
+- At 18, I learned how to live independently as a Freshman at Rutgers. It was also my realization that the road to majoring in Computer Science was going to be a long and challenging one; however, I was ready.
 
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
+- At 19, I got my first paying job as an Orientation Leader. That first paycheck was better than any fruity-sticker my teachers rewarded me in elementary school.
+
+- At 20, I learned about resiliency when faced with rejection. I applied to a few jobs that I really wanted, interviewed to the last round, but got rejected at the end. I learned to reflect, revise, and retry with my head held high.
+
+- At 22, I took my first graduate course.
+
+- At 24, I filed my first patent with the U.S. Patent Office.
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
@@ -55,7 +64,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Learning new things
 - Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
 - [Good design](/)
-- Friendly and Driven People :)
+- Friendly and Driven People :D
 
 # Travel / Geography
 
@@ -71,10 +80,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - In 2022, I felt comfortable traveling abroad again and visited: Canada (Niagra Falls, Toronto), France (Paris), Italy (Milan, Rome, Venice)
 - In 2023, I will visit: Germany, Malaysia, Scotland, Singapore, Switzerland, and Thailand
 
-# Odd Things I Have Learned
-- Social Security Numbers were not meant to be used for US citizen identification.
-- There is a ladder in Jerusalem that could start a war if moved.
-
 # Fun Facts
 
 - I have a passion for the stock market and have built complex spreadsheets and data visualizations to support my trading (with great returns of 17%+ YoY).
@@ -83,18 +88,18 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - I am susceptable to Fear of Missing Out --better known as FOMO. Consequently, I always "go for it" when possible so I do not have regrets later.
 - I added this part because so people said my website was just my resume.
 
-# I dream of
+# I dream of...
 
 - making an undeniably profound impact.
 - flying a plane (and having passengers who trust me to fly a plane).
 - always finding inspiration from new connections.
 - enabling a brighter future for those around me.
 - continuously learning to expand my horizons.
-- becoming a United Airlines Million Miler (I know... it is ludicrous)
+- becoming a United Airlines Million Miler (I know... it is ludicrous).
 
 # People I admire
 
-- [Jenna Rhodes](https://www.linkedin.com/in/jenna-rhodes-499501132)
 - [Nicholas Kuo](https://www.linkedin.com/in/nicholaskuo)
+- [Jenna Rhodes](https://www.linkedin.com/in/jenna-rhodes-499501132)
 
 If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I have not included you. Reach out and I'll add you.
