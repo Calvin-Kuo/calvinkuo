@@ -1,15 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Bassett Healthcare Network',
+    subtitle: 'Integrating Engineering Management Techniques to Enhance Nursing Workflow Efficiency: Systematic Analyses and Approach Recommendations',
+    image: '/images/projects/BassettHighLevel.png',
+    date: '2023-05-15',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Integrating Engineering Management Techniques to Enhance Nursing Workflow Efficiency. '
+      + 'Systematic analyses and approach Recommendations to increase visibility and drive efficiency into hospital resource allocations.'
+      + 'Designed and developed workflow diagrams, spreadsheet scripts, and user personas'
+      + 'to unlock areas to reduce redundancies and improve inpatient care.',
   },
   {
     title: 'Harvest',

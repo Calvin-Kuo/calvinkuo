@@ -19,17 +19,17 @@ My hunger for continuous learning has brought me to Cornell University, where I 
 
 - At 5, I began learning how to swim and ice skate competitively. After a year, I decided to stick with swimming and give up ice skating because I preferred warm sports over cold sports.
 
-- At 6, I began Chinese school where I was *cough*forced*cough* to learn how to read, write, listen, and speak Simplified Chinese. For the next 12 years, my Saturdays were dedicated to Chinese school (6 days of school a week). It was also the year I accidentally broke my father's Motorola Razr flip phone from using it too much.
+- At 6, I began Chinese school where I learned how to read, write, listen, and speak Simplified Mandarin Chinese. For the next 12 years, my Saturdays were dedicated to Chinese school (6 days of school a week). It was also the year I accidentally broke my father's Motorola Razr flip phone from using it too much.
 
 - At 7, my parents gifted me a Gameboy for the 14 hour flight to China. Besides this being my first time visiting Asia, this was the first time I had a gaming device of any kind --so as you can imagine I was ecstatic.
 
-- At 8, my parents bought a new Dell destop computer. I learned how to use Microsoft Word and PowerPoint, which I then used for my homework.
+- At 8, my parents bought a new Dell destop computer. I learned how to use Microsoft Word and PowerPoint, which I then used for my homework. It was also the year I began martial arts and karate.
 
-- At 9, I began playing club soccer (or football for my friends outside the U.S.). I also created my first email account (it was a Gmail). I felt like a boss whenever I got an email.
+- At 9, I began playing club soccer (or football for my friends outside the U.S.). I also created my first email account (it was a Gmail). I felt like a boss when I received my first email.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). It was a website for my Club Penguin and it was terrible (but I did not think so at the time). I also made Club Penguin Youtube videos.
+- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). It was a website for my Club Penguin and it was terrible (but I did not think so at the time). I also made Club Penguin Youtube videos which my friends still make fun of today.
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil).
+- I was 11 when I learned the importance of helping my community. I participated in the Rotary International club and helped communities in Habitat for Humanity.
 
 - When I was 12, I learned anatomy and found myself incredibly interested in pursuing a field of surgery. I was not afraid of blood, but I was afraid of shots.
 
@@ -45,13 +45,19 @@ My hunger for continuous learning has brought me to Cornell University, where I 
 
 - At 19, I got my first paying job as an Orientation Leader. That first paycheck was better than any fruity-sticker my teachers rewarded me in elementary school.
 
-- At 20, I learned about resiliency when faced with rejection. I applied to a few jobs that I really wanted, interviewed to the last round, but got rejected at the end. I learned to reflect, revise, and retry with my head held high.
+- At 20, I learned about resiliency when faced with rejection and learned to reflect, revise, and retry with my head held high. I interned as a software engineer abroad in China where I realized that my Chinese had plenty of room for improvement.
 
-- At 22, I took my first graduate course.
+- At 21, I was selected to be a Computer Science instructor and taught my first university course. I also completed an internship with AT&T's Technology Development Program and got to work with Augmented Reality (AR) and Virtual Reality (VR) for the first time.
+
+- At 22, I graduated from Rutgers with a Bachelor of Science in Computer Science. I joined AT&T's Technology Development Program in technical project and product management.
+
+- At 23, while working full-time, I began pursuing my Masters degree and took my first graduate course. 
 
 - At 24, I filed my first patent with the U.S. Patent Office.
 
-Ask me in person for other stories that I'm afraid to share with the internet.
+- At 25, I am starting my market analaysis business.
+
+Ask me in person for other stories that I'm hesitant to share with the Internet.
 
 # I like...
 
@@ -69,23 +75,23 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # Travel / Geography
 
 - I was born and raised in the Garden State of New Jersey.
-- My current responsibilities at AT&T has me flying to Seattle, Washington quite a bit.
+- My current responsibilities at AT&T sometimes sees me flying to Seattle, Washington.
 - I have been to ~ 20 countries, a few of which are a little fuzzy in my memory, and many of which I would like to revisit (especially Japan).
 - In 2016, I visited: Denmark (Copenhagen), Finland (Helsinki), Germany (Berlin), Russia (St. Petersberg), Swedan (Stockholm).
 - In 2017, I visited: Hawaii (Honolulu, Maui), Virginia, Washington D.C.
 - In 2018, I did a software engineering internship in Beijing, China which gave me the opportunity to explore: Hong Kong, Shanghai, Fuzhou, and Japan (Tokyo, Osaka, Kyoto).
-- In 2019, I visited: Florida (Miami)
+- In 2019, I visited: Florida (Miami).
 - In 2020, I barely traveled 200 feet. I stayed in New Jersey.
-- In 2021, I stayed in the US and visited: California (Irvine, Newport, San Diego), Florida (Fort Lauderdale, Boca Raton) Illinois (Chicago)
-- In 2022, I felt comfortable traveling abroad again and visited: Canada (Niagra Falls, Toronto), France (Paris), Italy (Milan, Rome, Venice)
-- In 2023, I will visit: Germany, Malaysia, Scotland, Singapore, Switzerland, and Thailand
+- In 2021, I stayed in the US and visited: California (Irvine, Newport, San Diego), Florida (Fort Lauderdale, Boca Raton) Illinois (Chicago).
+- In 2022, I felt comfortable traveling abroad again and visited: Canada (Niagra Falls, Toronto), France (Paris), Italy (Milan, Rome, Venice).
+- In 2023, I visited: Germany, Malaysia, Scotland (Edinburgh), Singapore, Switzerland (Geneva, Jungfrau, Lucerne, Montreux, Zurich), and Thailand.
 
 # Fun Facts
 
 - I have a passion for the stock market and have built complex spreadsheets and data visualizations to support my trading (with great returns of 17%+ YoY).
 - I am an Apple geek; I follow Apple rumors, launch events, and updates like high school teens follow their favorite celebrity.
 - I could juggle a soccer ball (or football for everyone outside the US) 100+ times without the ball hitting the ground.
-- I am susceptable to Fear of Missing Out --better known as FOMO. Consequently, I always "go for it" when possible so I do not have regrets later.
+- I have a Fear of Missing Out --better known as FOMO. Consequently, I always "go for it" so I do not have regrets later.
 - I added this part because so people said my website was just my resume.
 
 # I dream of...
@@ -97,7 +103,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - continuously learning to expand my horizons.
 - becoming a United Airlines Million Miler (I know... it is ludicrous).
 
-# People I admire
+# People I Admire
 
 - [Nicholas Kuo](https://www.linkedin.com/in/nicholaskuo)
 - [Jenna Rhodes](https://www.linkedin.com/in/jenna-rhodes-499501132)
