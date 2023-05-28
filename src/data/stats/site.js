@@ -6,6 +6,11 @@ import dayjs from 'dayjs';
  */
 const data = [
   {
+    label: 'Website Views',
+    value: '105',
+  },
+  /*
+  {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
     link: 'https://github.com/mldangelo/personal-site/stargazers',
@@ -20,32 +25,33 @@ const data = [
     key: 'forks',
     link: 'https://github.com/mldangelo/personal-site/network',
   },
+  */
   {
-    label: 'Number of spoons',
+    label: 'Number of Spoons',
     value: '0',
   },
   {
-    label: 'Number of linter warnings',
+    label: 'Number of Linter Warnings',
     value: '0', // enforced via github workflow
   },
   {
-    label: 'Open github issues',
+    label: 'Open Github Issues',
     key: 'open_issues_count',
-    link: 'https://github.com/mldangelo/personal-site/issues',
+    link: 'https://github.com/Calvin-Kuo/calvinkuo/issues',
   },
   {
-    label: 'Last updated at',
+    label: 'Last Updated At',
     key: 'pushed_at',
-    link: 'https://github.com/mldangelo/personal-site/commits',
+    link: 'https://github.com/Calvin-Kuo/calvinkuo/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
   {
     // TODO update this with a pre-commit hook
     /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
     xargs -I file cat file | wc -l */
-    label: 'Lines of Javascript powering this website',
+    label: 'Lines of Javascript Powering This Website',
     value: '2115',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
+    link: 'https://github.com/Calvin-Kuo/calvinkuo/graphs/contributors',
   },
 ];
 

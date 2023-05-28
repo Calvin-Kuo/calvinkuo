@@ -3,41 +3,40 @@ const data = [
   {
     title: 'Bassett Healthcare Network',
     subtitle: 'Integrating Engineering Management Techniques to Enhance Nursing Workflow Efficiency: Systematic Analyses and Approach Recommendations',
-    image: '/images/projects/BassettHighLevel.png',
+    image: '/images/projects/BassettHealth.png',
     date: '2023-05-15',
     desc:
-      'Integrating Engineering Management Techniques to Enhance Nursing Workflow Efficiency. '
-      + 'Systematic analyses and approach Recommendations to increase visibility and drive efficiency into hospital resource allocations.'
-      + 'Designed and developed workflow diagrams, spreadsheet scripts, and user personas'
-      + 'to unlock areas to reduce redundancies and improve inpatient care.',
+      'Integrated engineering management techniques with Epic and UKG software tools to enhance nursing workflow efficiency. '
+      + 'Leveraged systematic analyses and approach recommendations to increase visibility and drive efficiency into hospital resource allocations. '
+      + 'Designed and developed workflow diagrams, spreadsheet scripts, and user personas '
+      + 'to reduce redundancies and improve inpatient care for thousands.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'NO-FOMO',
+    subtitle: 'No More Fear of Missing Out',
+    link: 'https://no-fomo.weebly.com/',
+    image: '/images/projects/NoFomoProject.png',
+    date: '2022-05-10',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Built a centralized calendar and activity scheduler to help Cornell students stay engaged in campus activities. '
+      + 'Designed an app feature called "DISCOVR" that takes UI/UX inspiration from Instagram and Tinder to help students find interesting events. '
+      + 'Conducted user research and received Cornell faculty and student body praise.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'HBO Max Virtual Reality',
+    subtitle: 'AT&T Intern Innovation Challenge for Summer 2019.',
+    image: '/images/projects/HBOMaxVR.png',
+    date: '2019-08-12',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Ideated an engaging new way to stream HBO Max using Virtual Reality (VR). '
+      + 'Developed interactive "galaxy exploration" UI/UX using Unity, Oculus VR, and other tools. '
+      + 'Pitched and demoed to AT&T and HBO executive leadership.',
   },
   {
     title: 'Cat Detector',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    date: '2018-05-15',
     desc:
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
       + 'Over 60,000 cats were classified before server bills made the project too expensive '
