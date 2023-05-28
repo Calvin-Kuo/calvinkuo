@@ -11,17 +11,13 @@ const validateText = (text) => {
 
 const messages = [
   'calvinykuo',
-  'hello',
-  'hola',
+  'calvinykuo+hello',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
-  'like-this',
-  'or-this',
+  'calvinykuo+like-this',
+  'calvinykuo+or-this',
   'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
-  'or-I-really-like-your-website',
-  'thanks',
+  'calvinykuo+thanks',
   'calvinykuo',
 ];
 

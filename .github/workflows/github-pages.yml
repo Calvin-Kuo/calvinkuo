@@ -3,9 +3,15 @@ name: GitHub Pages
 on:
   push:
     branches: [ main ]
+    #Added
+    workflow_dispatch:
 jobs:
   deployment:
-    runs-on: ubuntu-latest
+    #Removed
+    #runs-on: ubuntu-latest
+    #Added
+    runs-on: ubuntu-20.04
+    timeout-minutes: 5
     environment: production
     steps:
     - name: Checkout
