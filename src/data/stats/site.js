@@ -7,7 +7,7 @@ import dayjs from 'dayjs';
 const data = [
   {
     label: 'Website Views',
-    value: '105',
+    value: '1020+',
   },
   /*
   {
