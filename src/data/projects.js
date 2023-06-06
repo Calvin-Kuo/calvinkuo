@@ -29,7 +29,7 @@ const data = [
     date: '2019-08-12',
     desc:
       'Ideated an engaging new way to stream HBO Max using Virtual Reality (VR). '
-      + 'Developed interactive "galaxy exploration" UI/UX using Unity, Oculus VR, and other tools. '
+      + 'Developed interactive "galaxy exploration" UI/UX using Unity, Oculus VR, Blender, and other tools. '
       + 'Pitched and demoed to AT&T and HBO executive leadership.',
   },
   {
