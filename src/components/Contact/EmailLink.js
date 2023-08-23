@@ -11,6 +11,12 @@ const validateText = (text) => {
 
 const messages = [
   'calvinykuo',
+  'Hello world!',
+  'Want to connect? You can email me!',
+  'Looking forward to connect with you! :)',
+  'calvinykuo',
+];
+/*
   'calvinykuo+hello',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
@@ -18,8 +24,7 @@ const messages = [
   'calvinykuo+or-this',
   'but not this :(  ',
   'calvinykuo+thanks',
-  'calvinykuo',
-];
+*/
 
 const useInterval = (callback, delay) => {
   const savedCallback = useRef();

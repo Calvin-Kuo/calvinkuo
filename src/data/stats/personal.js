@@ -21,13 +21,13 @@ const Age = () => {
 const data = [
   {
     key: 'age',
-    label: 'Current age',
+    label: 'Current Age',
     value: <Age />,
   },
   {
     key: 'countries',
-    label: 'Countries visited',
-    value: 22,
+    label: 'Countries Visited',
+    value: 25,
     link:
       'https://www.google.com/maps/d/edit?mid=1gY1hgPN2AzoMqObDrDVvpdhKXLjOcE0&usp=sharing',
   },

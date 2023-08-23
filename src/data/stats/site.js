@@ -2,28 +2,28 @@ import dayjs from 'dayjs';
 
 /* Keys match keys returned by the github api. Fields without keys are
  * mostly jokes. To see everything returned by the github api, run:
- curl https://api.github.com/repos/mldangelo/personal-site
+ curl https://api.github.com/repos/Calvin-Kuo/calvinkuo
  */
 const data = [
   {
     label: 'Website Views',
-    value: '1020+',
+    value: '1100+',
   },
   /*
   {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/Calvin-Kuo/calvinkuo/stargazers',
   },
   {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/Calvin-Kuo/calvinkuo/stargazers',
   },
   {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/mldangelo/personal-site/network',
+    link: 'https://github.com/Calvin-Kuo/calvinkuo/network',
   },
   */
   {

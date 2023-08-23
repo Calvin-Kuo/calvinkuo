@@ -6,9 +6,9 @@ I am a Software / System Engineering Manager at [AT&T](https://att.com). I am al
 # Currently
 
 At AT&T, I am cross-functionally leading software engineering and data analyst teams to deliver 4G / 5G device diagnostics for Samsung, Qualcomm, and other OEMs. I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a Product Manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from Engineering teams to Sales, Marketing, and Legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
-
+<br/><br/>
 I focus on uncovering opportunites to create value rather than focusing on solely on backlog items. I continuously measure outcomes and decide action items based on evidence. I strive for partnership with people and nevery shy away from conflicts; I do not allow anti-patterns to get in my way. I inspire teams and empower them to solve meaningful problems however they see fit. 
-
+<br/><br/>
 My hunger for continuous learning has brought me to Cornell University, where I am currently pursuing a M.Eng. in Engineering Management. On the side, I also study the financial markets and trade.
 
 # Some History
@@ -77,7 +77,7 @@ Ask me in person for other stories that I'm hesitant to share with the Internet.
 - I was born and raised in the Garden State of New Jersey.
 - My current responsibilities at AT&T sometimes sees me flying to Seattle, Washington.
 - I have been to ~ 20 countries, a few of which are a little fuzzy in my memory, and many of which I would like to revisit (especially Japan).
-- In 2016, I visited: Denmark (Copenhagen), Finland (Helsinki), Germany (Berlin), Russia (St. Petersberg), Swedan (Stockholm).
+- In 2016, I visited: Denmark (Copenhagen), Finland (Helsinki), Germany (Berlin), Russia (St. Petersberg), Sweden (Stockholm).
 - In 2017, I visited: Hawaii (Honolulu, Maui), Virginia, Washington D.C.
 - In 2018, I did a software engineering internship in Beijing, China which gave me the opportunity to explore: Hong Kong, Shanghai, Fuzhou, and Japan (Tokyo, Osaka, Kyoto).
 - In 2019, I visited: Florida (Miami).
