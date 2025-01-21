@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Cornell University',
-    degree: 'Master of Engineering (M.Eng.) Engineering Management',
+    degree: 'Master of Engineering (M.Eng.) Engineering Management, Systems Engineering',
     link: 'https://cornell.edu',
     year: 2024,
   },
