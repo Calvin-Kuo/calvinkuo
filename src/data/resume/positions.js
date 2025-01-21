@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'AT&T',
-    position: 'Software / System Engineering Manager (PM)',
+    position: 'Senior System Engineering Manager - Network Data Automation Intelligence',
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
@@ -13,8 +13,8 @@ const positions = [
     ],
   },
   {
-    company: 'AT&T (Xandr)',
-    position: 'Technical Product Manager II',
+    company: 'AT&T',
+    position: 'Senior Technical Product Manager - Enterprise Advertising Data',
     link: 'https://xandr.com',
     daterange: 'April 2021 - April 2022',
     points: [
@@ -27,7 +27,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Technical Project Manager',
+    position: 'Technical Project Manager - Cloud Architecture',
     link: 'https://att.com',
     daterange: 'July 2020 - April 2021',
     points: [
@@ -87,7 +87,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Technical Project Manager / Release Train Engineer Intern',
+    position: 'Technical Project Manager / Release Train Engineer Intern - FirstNet',
     link: 'https://att.com',
     daterange: 'June 2019 - August 2019',
     points: [
@@ -125,7 +125,7 @@ const positions = [
   },
   {
     company: 'Johnson & Johnson',
-    position: 'Software Research and Development Co-Op',
+    position: 'Software Engineer Intern',
     link: 'https://www.jnj.com/',
     daterange: 'January 2018 - April 2018',
     points: [
