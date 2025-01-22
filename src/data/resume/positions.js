@@ -116,10 +116,9 @@ const positions = [
     link: 'https://www.huawei.com/us/',
     daterange: 'June 2018 - August 2018',
     points: [
-      'Engineered a dynamic $9M cloud management platform leveraging REST APIs and Java based on hybrid cloud architecture.',
+      'Engineered cost optimization analysis with React UI accessing AWS EC2 and S3 APIs for a dynamic $9M cloud management architecture, saving approx. $12k per month for 6 international B2B clients (translated English and Mandarin Chinese)',
+      'Integrated microservice tracing system as a containerized app on Kubernetes cluster, increasing debug app response by 7%',
       'Supported the development of production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Postgres, etc. with Kubernetes.',
-      'Facilitated daily meetings with international clients and contractors concerning virtual machines, Kubernetes, and containers.',
-      'Troubleshooted development roadblocks and mitigate immediate risks by meeting with cloud partners and respective engineering teams, such as Stratoscale and Abiquo.',
       'Composed data analytics reports using SQL-based Looker Blocks to encapsulate performance and growth metrics for CEO.',
     ],
   },
@@ -129,10 +128,8 @@ const positions = [
     link: 'https://www.jnj.com/',
     daterange: 'January 2018 - April 2018',
     points: [
-      'Developed, implemented, and delivered 3 digital health software elements for biosensors, health tracking, and mobile devices.',
-      'Analyzed product development data metrics and models to advise global technology investment and procurement portfolios.',
-      'Consolidated and rationalized market requirements into product plans through clear technical white papers and case studies.',
-      'Provided insights into consumer packaged goods (CPG) industry including an understanding of product development life-cycle.',
+      'Developed biosensor performance notification system run on AWS AppSync (GraphQL) w/ serverless DynamoDB and S3 backend',
+      'Integrated PostgreSQL database to automate 75% of manual processes for future R&D resource allocation & portfolio management',
     ],
   },
 ];
