@@ -1,7 +1,9 @@
 
 # Introduction
 
-I am a Software / System Engineering Manager at [AT&T](https://att.com). I am also a Master of Engineering in Engineering Management Candidate at [Cornell University](https://cornell.edu). I am particularly interested in the intersection between engineering and business management to gain a holistic view of the engineering process to define, design, and manage complex problems. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a Senior System Engineering Manager at [AT&T](https://att.com) within the Network Data Automation Intelligence team. I work at the intersection between engineering and business management to holistically orchestrate the engineering process to define, design, and manage complex problems. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+
+I am also a Master of Engineering in Engineering Management Candidate at [Cornell University](https://cornell.edu).
 
 # Currently
 
