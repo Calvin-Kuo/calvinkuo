@@ -5,11 +5,11 @@ const positions = [
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
-      '',
-      '',
-      '',
-      'Deployed quantitative strategies to forecast binary delivery ETAs for Samsung device integrations.',
-      'Align 7 development teams across AT&T, Samsung, Motorola, Foxconn, and other OEMs to a shared technical direction and partner with those teams to elaborate interfaces and solutions for timely deployment of 5+ release candidates per quarter.',
+      'Directed AT&T’s Android OS AI diagnostic initiative, leading E2E development & launch of 15+ software release candidates YoY; used AI-driven analytics to ingest 4G/5G broadband & geolocation metrics across 17M+ devices nationally for network optimization.',
+      'Delivered 1k+ actionable KPIs & $100M+ in operational cost savings by automating data pipelines with Hadoop, Spark, & Vertica.',
+      'Owned and optimized CI/CD pipelines to streamline data ingestion and transformation of 4G/5G network processes utilizing Kafka, REST APIs & Snowflake DB; implemented robust analytics validation w/ Android framework, schema comparison, & SonarQube to ensure 99% data accuracy & system reliability; leveraged Power BI for production monitoring against KPIs / business OKRs.',
+      'Defined device integration roadmaps for 90+ device models annually; developed A/B testing strategies to evaluate feature impacts, triaged KPI-critical issues via Atlassian Jira / Confluence; prioritized binaries, test validation milestones, & patch builds w/ R&D.',
+      'Led quarterly all-hands meetings & partnered with engineering, QA, marketing, & Google / OEM R&D teams to align on technical roadmaps, mitigate risks and blockers, and deliver AI automation solutions 30% faster across the agile release cycles.',
     ],
   },
   {
