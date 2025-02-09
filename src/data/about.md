@@ -1,7 +1,7 @@
 
 # Introduction
 
-Hi, my name is Calvin! My passion is to build profound products and services that improve customer experiences and foster an innovative culture. I enjoy working at the intersection between engineering and business to holistically orchestrate the engineering process to define, design, develop, and launch impactful solutions to address complex problems.
+Hi, my name is Calvin! My passion is to build profound products and services that improve customer experiences and foster an innovative culture. I cross-functionally work at the intersection between the engineering and business to holistically orchestrate the engineering process to define, design, develop, and launch impactful solutions to address complex problems.
 <br/><br/>
 If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 

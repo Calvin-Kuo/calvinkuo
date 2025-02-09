@@ -5,9 +5,9 @@ const positions = [
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
-      'Ideate, design, develop, and deploy iQ Insights (iQI) broadband diagnostic components integrated on AT&T 4G/5G stock devices, including embedded Android app, Agents, Profiles, Domain Filters, and Bright Diagnostic SDK (iOS and Android).',
-      'Orchestrate the device integration and certification of iQI diagnostic products across 15M+ reporting mobile platforms, 200+ hardware model variants, OS versions, and OEM specific release cycles on an agile release train using Confluence and Jira.',
-      'Build and refine PowerBI dashboards to triage KPI-impacting issue mitigation and organize timely QA and R&D binary deliveries, lab entry validations, and technical acceptances for 100+ device integrations across 3 software releases annually.',
+      '',
+      '',
+      '',
       'Deployed quantitative strategies to forecast binary delivery ETAs for Samsung device integrations.',
       'Align 7 development teams across AT&T, Samsung, Motorola, Foxconn, and other OEMs to a shared technical direction and partner with those teams to elaborate interfaces and solutions for timely deployment of 5+ release candidates per quarter.',
     ],
@@ -18,11 +18,11 @@ const positions = [
     link: 'https://xandr.com',
     daterange: 'April 2021 - April 2022',
     points: [
-      'Administered agile SAFe production by measuring KPIs and delegating data integration resources to deliver core data and advertising capabilities through Snowflake that power $5-7B in advertising revenues across AT&T, Xandr, and WarnerMedia.',
-      'Collaborated cross-functionally with 8 engineering, data science, and legal teams to offer business insights to streamline program organization and overall project workflow by 20% for 11 simultaneous data access and advertising insights projects.',
+      'Architected and led development of an AI/ML-powered data intelligence platform (Snowflake, Python) that ingested 5+ PB of HBOMax / DirecTV multichannel metrics and analyzed 50M+ household/user metrics (viewing habits, purchasing behavior, interests, sentiments, income), enabling hyper-personalized ad strategies that drove $7B in annual revenue.',
+      'Implemented predictive analytics pipelines (Snowflake) to transform raw data into monetizable insights, improving advertising ROI by 20% and reducing manual analysis time by 30% through automated ML workflows.',
+      'Streamlined SDLC workflows for 11 data pipelines and scaled ML deployments, accelerating deployment by 10% via CI/CD pipeline optimizations (Jenkins, GitLab)',
       'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      'Prioritized product requirements in Jira and generated data visualization reports using PowerBI for open issues and burn rates.',
-      'Introduced methodologies and best practices to save 5-hours of engineering effort per week for tune adjustment modeling.',
+      'Orchestrated cross-functional collaboration across 5 engineering teams, 2 data science teams, and legal/compliance, prioritizing requirements in Jira, and translating technical insights into business strategies.',
     ],
   },
   {
@@ -31,10 +31,10 @@ const positions = [
     link: 'https://att.com',
     daterange: 'July 2020 - April 2021',
     points: [
-      'Coordinated rapid development efforts across 3 AT&T, 1 SAP, and 1 Accenture engineering Scrum teams for a $35M sales compensation portfolio to build channels to migrate legacy on-premise platforms to SAP and VMWare Horizon hybrid cloud.',
-      'Strategized project roadmaps adhering to engineering bandwidth and integration of stakeholder feedback into requirements.',
-      'Supported analysis to ensure data integrity using Pandas, t-SNE, SVMs, and other techniques.',
-      'Maximized engineering and UAT testing efficiency by 10% across 4 development and testing teams while mitigating risks.',
+      'Led $40M retail sales platform migration to cloud-native architecture from SAP HANA to AWS Redshift for data processing & from VMware Horizon to AWS ECS for virtualized app deployment; boosted scalability / system performance for 5k national retail stores.',
+      'Implemented containerized microservices (Docker, Kubernetes) ingesting 10 TB sales data daily & reducing system latency by 15%.',
+      'Coordinated agile development for 3 Scrum engineer teams to drive IaC practices, align technical roadmaps, & prioritize features; maximized engineering UAT efficiency by 10% via automated testing frameworks (Selenium) & proactive Sev1 risk mitigation.',
+      'Automated financial reporting via Power BI & Excel macros, reducing 20% manual effort & improved burn rate tracking accuracy.',
     ],
   },
   {
@@ -74,15 +74,14 @@ const positions = [
     ],
   },
   {
-    company: 'Rutgers University Career Services',
+    company: 'Rutgers University - Department of Computer Science',
     position: 'Computer Science Instructor',
     link: 'https://www.sasundergrad.rutgers.edu/welcome/majors/explore/computer-science',
     daterange: 'March 2019 - May 2020',
     points: [
-      'Spearheaded and taught a 10-week curriculum for a college level course called “Exploring Computer Science” for 25 first-year students.',
-      'Engaged students through thought-provoking discussions, topical area debates, hands-on augmented reality (AR) experiments, and lessons regarding artificial intelligence, blockchain technology, and software development.',
-      'Taught and inspired students about a myriad of computer science topics including security, AI, and Internet of Things (IoT).',
-      'Demonstrated consistently strong leadership skills, public-speaking abilities, and teaching techniques to engage students in the field of computer science.',
+      'Spearheaded a 10-week Artificial Intelligence and Internet Technology college level course for 25 first-year students.',
+      'Taught computer vision to tag NJ/NY street signs, NLP sentiment analysis (Pandas, NLTK), neural nets, and augmented reality.',
+      'Designed curriculums that engaged students through thought-provoking discussions, topical area debates, and hands-on development.',
     ],
   },
   {
@@ -94,8 +93,7 @@ const positions = [
       'Scoped, prototyped, validated, and constructed next-generation software solutions for a high-valued project to transform E-911 public safety.',
       'Orchestrated 8 agile Scrum teams of software engineers and architects on projects comprised of network elements and data stores.',
       'Managed program iterations and features as a key product evangelist on internal and external teams saving the project $210k.',
-      'Collaborated with a group of engineers to prototype and engineer a revolutionary HBO Virtual Reality (VR) streaming experience using the Unity game engine and Blender as part of the Intern Innovation Challenge',
-      'Pitched and live demoed our Virtual Reality (VR) streaming product to senior leadership to gain approval for funding.',
+      'Designed, prototyped, & pitched a VR app to create an enriched HBO Max streaming UI/UX on Meta Oculus (developed with Unity game engine & Blender)',
     ],
   },
   {
@@ -119,7 +117,7 @@ const positions = [
       'Engineered cost optimization analysis with React UI accessing AWS EC2 and S3 APIs for a dynamic $9M cloud management architecture, saving approx. $12k per month for 6 international B2B clients (translated English and Mandarin Chinese)',
       'Integrated microservice tracing system as a containerized app on Kubernetes cluster, increasing debug app response by 7%',
       'Supported the development of production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Postgres, etc. with Kubernetes.',
-      'Composed data analytics reports using SQL-based Looker Blocks to encapsulate performance and growth metrics for CEO.',
+      'Built analysis to ensure data integrity using Pandas, t-SNE, SVMs, and other techniques.',
     ],
   },
   {
@@ -130,6 +128,7 @@ const positions = [
     points: [
       'Developed biosensor performance notification system run on AWS AppSync (GraphQL) w/ serverless DynamoDB and S3 backend',
       'Integrated PostgreSQL database to automate 75% of manual processes for future R&D resource allocation & portfolio management',
+      'Composed data analytics reports using SQL-based Looker Blocks to encapsulate performance and growth metrics for executive decision-making.',
     ],
   },
 ];
