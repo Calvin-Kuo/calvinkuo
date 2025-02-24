@@ -19,9 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About Me</h2>
-      <p>Hi, my name is Calvin Kuo. I am a Software / System Engineering Manager at <a href="https://att.com/">AT&amp;T</a>.
-        While working full-time, I am also a Master of Engineering in Engineering Management Candidate at <a href="https://cornell.edu/">Cornell University</a>.
-        Previously, I earned a Bachelor of Science in Computer Science with a Minor in Entrepreneurship from <a href="https://rutgers.edu">Rutgers University - New Brunswick</a>.
+      <p>Hi, my name is Calvin Kuo. I am a Senior System Engineering Manager at <a href="https://att.com/">AT&amp;T</a> driving transformative technical products at scale. My background sits at the intersection of data analytics and AI --translating technical complexity into measurable customer outcomes.
+        I earned my Master of Engineering in Engineering Management at <a href="https://cornell.edu/">Cornell University</a>.
+        I also hold a Bachelor of Science in Computer Science with a Minor in Entrepreneurship from <a href="https://rutgers.edu">Rutgers University - New Brunswick</a>.
       </p>
       <ul className="actions">
         <li>

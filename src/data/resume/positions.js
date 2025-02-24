@@ -6,7 +6,7 @@ const positions = [
     daterange: 'April 2022 - Present',
     points: [
       'Architected end-to-end development of AI-driven network diagnostics analyzing 19M+ 4G/5G Android OS devices, processing 50B records daily w/ 10m geolocation accuracy, reducing network latency by 35% & improved anomaly detection accuracy by 50%.',
-      'Launched 15+ diagnostic software release candidates annually, automated data pipelines (Spark, Hadoop), and integrated Vertica to deliver scalable ETL workflows generating 1000+ actionable KPIs, enabling $100M+ in operational cost savings and reducing manual data processing time by 70%.',
+      'Launched 15+ diagnostic software release candidates annually, automated data pipelines (Spark, Hadoop), and integrated Vertica to deliver scalable ETL workflows generating 1000+ actionable KPIs, enabling $100M+ in operational cost savings, and reducing manual data processing time by 70%.',
       'Owned and optimized CI/CD pipelines (Jenkins, Docker) to streamline data ingestion and transformation of 4G/5G network processes utilizing Kafka, REST APIs & Snowflake DB; implemented robust analytics validation w/ Android framework, schema comparison, & SonarQube to ensure 99% data accuracy & system reliability.',
       'Defined device integration roadmaps for 90+ device models annually; developed A/B testing strategies to evaluate feature impacts, triaged KPI-critical issues via Atlassian Jira / Confluence; prioritized binaries, test validation milestones, & patch builds w/ R&D.',
       'Led quarterly all-hands meetings & partnered with engineering, QA, marketing, & Google / OEM R&D teams to align on technical roadmaps, mitigate risks and blockers, and deliver AI automation solutions 30% faster across the agile release cycles.',
@@ -31,7 +31,7 @@ const positions = [
     link: 'https://att.com',
     daterange: 'July 2020 - April 2021',
     points: [
-      'Led $40M retail sales platform migration to cloud-native architecture from SAP HANA to AWS Redshift for data processing & from VMware Horizon to AWS ECS for virtualized app deployment; boosted scalability / system performance for 5k national retail stores.',
+      'Led $40M retail sales platform migration to cloud-native architecture from SAP HANA to AWS Redshift for data processing & from VMware Horizon to AWS ECS for virtualized app deployment; boosted scalability / system performance for 5000 national retail stores.',
       'Implemented containerized microservices (Docker, Kubernetes) ingesting 10 TB sales data daily & reducing system latency by 15%.',
       'Coordinated agile development for 3 Scrum engineer teams to drive IaC practices, align technical roadmaps, & prioritize features; maximized engineering UAT efficiency by 10% via automated testing frameworks (Selenium) & proactive Sev1 risk mitigation.',
       'Automated financial reporting via Power BI & Excel macros, reducing 20% manual effort & improved burn rate tracking accuracy.',
