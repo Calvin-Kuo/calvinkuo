@@ -1,5 +1,11 @@
 const courses = [
   {
+    title: 'Negotiations and Contracts for Engineering Managers',
+    number: 'ENMGT 5960',
+    link: 'https://classes.cornell.edu/browse/roster/FA23/class/ENMGT/5960',
+    university: 'Cornell',
+  },
+  {
     title: 'Engineering Management Project (Capstone)',
     number: 'ENMGT 5910',
     link: 'https://classes.cornell.edu/browse/roster/SP23/class/ENMGT/5910',
