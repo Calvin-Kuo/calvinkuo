@@ -22,7 +22,7 @@ const Index = () => (
         </div>
       </header>
       <center>
-        <img src={`${PUBLIC_URL}/images/CalvinBalloonsMod.png`} width={170} height={220} alt="" />
+        <img src={`${PUBLIC_URL}/images/CalvinTransparent.png`} width={100} height={250} alt="" />
         <br /> <br />
       </center>
       <p>
