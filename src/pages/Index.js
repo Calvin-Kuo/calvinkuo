@@ -14,9 +14,9 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Welcome</Link></h2>
-          <h3>Calvin&apos;s small corner of the Internet</h3>
+          <h3>Calvin&apos;s corner of the Internet</h3>
           <p>
-            A beautiful, responsive, statically-generated,
+            An elegant, responsive, statically-generated,
             React website written with modern Javascript.
           </p>
         </div>
@@ -26,7 +26,7 @@ const Index = () => (
         <br /> <br />
       </center>
       <p>
-        Greetings!
+        Hello!
         My name is Calvin Kuo and I am thrilled to welcome you to my personal website!
         My website is a reflection of some passions, pursuits, and adventures that make up my life.
         Whether you stumbled upon this space intentionally or serendipitously,
