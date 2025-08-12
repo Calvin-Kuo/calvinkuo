@@ -1,20 +1,21 @@
 const positions = [
   {
     company: 'AT&T',
-    position: 'Senior System Engineering Manager - Network Data Automation Intelligence',
+    position: 'Senior System Engineering Manager, Data AI',
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
-      'Architected end-to-end development of AI-driven network diagnostics analyzing 19M+ 4G/5G Android OS devices, processing 50B records daily w/ 10m geolocation accuracy, reducing network latency by 35% & improved anomaly detection accuracy by 50%.',
+      'Architected end-to-end development of AI agent, device diagnostics, and network geolocation features that analyze 50B daily records from 19M+ 4G/5G Android OS devices to produce network performance insights with 10 meter precision via a custom GPT; reduced network latency by 35% and improved anomaly detection accuracy by 50%.',
       'Launched 15+ diagnostic software release candidates annually, automated data pipelines (Spark, Hadoop), and integrated Vertica to deliver scalable ETL workflows generating 1000+ actionable KPIs, enabling $100M+ in operational cost savings, and reducing manual data processing time by 70%.',
-      'Owned and optimized CI/CD pipelines (Jenkins, Docker) to streamline data ingestion and transformation of 4G/5G network processes utilizing Kafka, REST APIs & Snowflake DB; implemented robust analytics validation w/ Android framework, schema comparison, & SonarQube to ensure 99% data accuracy & system reliability.',
-      'Defined device integration roadmaps for 90+ device models annually; developed A/B testing strategies to evaluate feature impacts, triaged KPI-critical issues via Atlassian Jira / Confluence; prioritized binaries, test validation milestones, & patch builds w/ R&D.',
-      'Led quarterly all-hands meetings & partnered with engineering, QA, marketing, & Google / OEM R&D teams to align on technical roadmaps, mitigate risks and blockers, and deliver AI automation solutions 30% faster across the agile release cycles.',
+      'Owned and optimized CI/CD pipelines (Jenkins, Docker) to streamline data ingestion and transformation of 4G/5G network data streaming processes utilizing Kafka, REST APIs, & Snowflake DB; implemented robust analytics validation w/ Android framework, schema comparison, & SonarQube to ensure 99% data accuracy & system reliability.',
+      'Drove network optimization by deploying REST APIs (Java / Spring Boot) & Power BI dashboards to monitor $500M+ infrastructure spend, aligning KPIs with business OKRs (e.g. 20% YoY reduction in network downtime)',
+      'Defined device integration roadmaps for 100+ device models annually; developed A/B testing strategies to evaluate feature impacts, triaged KPI-critical issues via Atlassian Jira / Confluence; prioritized binaries, test validation milestones, & patch builds w/ R&D.',
+      'Led quarterly PI planning, weekly backlog grooming, and daily Scrum standups; partnered with engineering, QA, marketing, & Google / OEM R&D teams to align on technical roadmaps, mitigate risks and blockers, and deliver AI automation solutions 30% faster across the agile release cycles.',
     ],
   },
   {
     company: 'AT&T',
-    position: 'Senior Technical Product Manager - Enterprise Advertising Data',
+    position: 'Senior Technical Product Manager, Enterprise Advertising Data',
     link: 'https://xandr.com',
     daterange: 'April 2021 - April 2022',
     points: [
@@ -28,11 +29,11 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Technical Project Manager - Cloud Architecture',
+    position: 'Technical Product Manager, Cloud Architecture',
     link: 'https://att.com',
     daterange: 'July 2020 - April 2021',
     points: [
-      'Led $40M retail sales platform migration to cloud-native architecture from SAP HANA to AWS Redshift for real-time data processing & from VMware Horizon to AWS ECS for virtualized app deployment; improved scalability and system performance for 5000 national retail stores.',
+      'Owned the end-to-end migration strategy for a $40M retail sales platform, transitioning analytical workloads to Azure Synapse to improve scalability for 5000 US retail stores, aligning with business goals to enhance operational efficiency.',
       'Implemented containerized microservices (Docker, Kubernetes) to streamline ingestion of 10+ TB of sales data daily, reducing system latency by 15% and deployment time by 30%.',
       'Coordinated agile development for 3 Scrum engineering teams to drive IaC practices, align technical roadmaps, & prioritize features to meet business goals for $1B annual sales compensation payouts.',
       'Maximized engineering UAT efficiency by 10% via automated testing frameworks (Selenium) & proactive P1 / Severity-1 risk mitigation, ensuring seamless rollouts for retail operations.',
@@ -88,7 +89,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Technical Project Manager / Release Train Engineer Intern - FirstNet',
+    position: 'Technical Product Manager / Release Train Engineer, FirstNet',
     link: 'https://att.com',
     daterange: 'June 2019 - August 2019',
     points: [
@@ -112,11 +113,11 @@ const positions = [
   },
   {
     company: 'Huawei',
-    position: 'Software Engineer Intern',
+    position: 'Software Engineer',
     link: 'https://www.huawei.com/us/',
     daterange: 'June 2018 - August 2018',
     points: [
-      'Engineered cost optimization analysis with React UI accessing AWS EC2 and S3 APIs for a dynamic $9M cloud management architecture, saving approx. $12k per month for 6 international B2B clients (translated English and Mandarin Chinese)',
+      'Engineered cost optimization analysis with React UI accessing AWS EC2 and S3 APIs for a dynamic $9M cloud management architecture, saving approximately $12000 per month for 6 international B2B clients (translated technical requirements between English and Mandarin Chinese)',
       'Integrated microservice tracing system as a containerized app on Kubernetes cluster, increasing debug app response by 7%',
       'Supported the development of production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, Scikit, Tensorflow, Postgres, etc. with Kubernetes.',
       'Built analysis to ensure data integrity using Pandas, t-SNE, SVMs, and other techniques.',
@@ -124,11 +125,11 @@ const positions = [
   },
   {
     company: 'Johnson & Johnson',
-    position: 'Software Engineer Intern',
+    position: 'Software Engineer',
     link: 'https://www.jnj.com/',
     daterange: 'January 2018 - April 2018',
     points: [
-      'Developed biosensor performance notification system run on AWS AppSync (GraphQL) w/ serverless DynamoDB and S3 backend',
+      'Developed biosensor performance notification system run on AWS AppSync (GraphQL) with serverless DynamoDB and S3 backend',
       'Integrated PostgreSQL database to automate 75% of manual processes for future R&D resource allocation & portfolio management',
       'Composed data analytics reports using SQL-based Looker Blocks to encapsulate performance and growth metrics for executive decision-making.',
     ],
