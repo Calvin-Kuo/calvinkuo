@@ -28,58 +28,83 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'Amazon Web Services',
-    competency: 1,
-    category: ['Web Development', 'Tools'],
+    title: 'Amazon Web Services (AWS S3, EC2)',
+    competency: 2,
+    category: ['Cloud', 'Web Development', 'Tools'],
   },
   {
-    title: 'Jira',
-    competency: 4,
-    category: ['Product & Project Management', 'Tools'],
-  },
-  {
-    title: 'Confluence',
+    title: 'Microsoft Azure (Synapse, Data Factory)',
     competency: 3,
+    category: ['Cloud', 'Web Development', 'Tools'],
+  },
+  {
+    title: 'Google Cloud Compute',
+    competency: 2,
+    category: ['Cloud', 'Web Development', 'Tools'],
+  },
+  {
+    title: 'Atlassian Jira',
+    competency: 5,
     category: ['Product & Project Management', 'Tools'],
   },
   {
-    title: 'Scaled Agiled Methodology',
-    competency: 4,
+    title: 'Atlassian Confluence',
+    competency: 5,
+    category: ['Product & Project Management', 'Tools'],
+  },
+  {
+    title: 'Agile Methodology',
+    competency: 5,
     category: ['Product & Project Management', 'Concepts'],
   },
   {
     title: 'Scrum Methodology',
-    competency: 4,
+    competency: 5,
     category: ['Product & Project Management', 'Concepts'],
   },
   {
+    title: 'Software Development Lifecycle (SDLC)',
+    competency: 5,
+    category: ['Product & Project Management', 'Concepts'],
+  },
+  {
+    title: 'Continuous Integration and Continuous Delivery (CI/CD)',
+    competency: 5,
+    category: ['Product & Project Management', 'Concepts', 'DevOps'],
+  },
+  {
     title: 'Microsoft Word',
-    competency: 4,
+    competency: 5,
     category: ['Product & Project Management', 'Tools'],
   },
   {
     title: 'Microsoft PowerPoint',
-    competency: 4,
+    competency: 5,
     category: ['Product & Project Management', 'Tools'],
   },
   {
     title: 'Microsoft Excel',
-    competency: 4,
+    competency: 5,
     category: ['Product & Project Management', 'Tools'],
   },
   {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 2,
+    title: 'Figma',
+    competency: 3,
+    category: ['Product & Project Management', 'Tools'],
+  },
+  {
+    title: 'PostgreSQL / SQLite3 / SQL',
+    competency: 3,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
     title: 'Databricks',
-    competency: 2,
+    competency: 3,
     category: ['Databases', 'Tools', 'Data Engineering'],
   },
   {
     title: 'Snowflake',
-    competency: 2,
+    competency: 3,
     category: ['Databases', 'Tools', 'Data Engineering'],
   },
   {
@@ -110,17 +135,32 @@ const skills = [
   {
     title: 'Git/Mercurial',
     competency: 3,
-    category: ['Tools'],
+    category: ['Tools', 'DevOps'],
+  },
+  {
+    title: 'GitLab',
+    competency: 3,
+    category: ['Tools', 'DevOps'],
+  },
+  {
+    title: 'Jenkins',
+    competency: 3,
+    category: ['Tools', 'DevOps'],
+  },
+  {
+    title: 'Artifactory',
+    competency: 2,
+    category: ['Tools', 'DevOps'],
+  },
+  {
+    title: 'Docker',
+    competency: 2,
+    category: ['Tools', 'Data Engineering', 'DevOps'],
   },
   {
     title: 'Kubernetes',
     competency: 2,
-    category: ['Tools', 'Data Engineering'],
-  },
-  {
-    title: 'Google Cloud Compute',
-    competency: 1,
-    category: ['Tools', 'Web Development'],
+    category: ['Tools', 'Data Engineering', 'DevOps'],
   },
   {
     title: 'Numpy',
@@ -187,7 +227,7 @@ const skills = [
     category: ['Data Science', 'Javascript'],
   },
   {
-    title: 'Power BI',
+    title: 'Microsoft Power BI',
     competency: 3,
     category: ['Data Science', 'Tools'],
   },
@@ -218,7 +258,7 @@ const skills = [
   },
   {
     title: 'Hadoop',
-    competency: 1,
+    competency: 2,
     category: ['Data Engineering', 'Data Science'],
   },
   {

@@ -1,5 +1,11 @@
 const courses = [
   {
+    title: 'Entrepreneurship for Scientists and Engineers',
+    number: 'NBA 5070',
+    link: 'https://classes.cornell.edu/browse/roster/SP24/class/NBA/5070',
+    university: 'Cornell',
+  },
+  {
     title: 'Negotiations and Contracts for Engineering Managers',
     number: 'ENMGT 5960',
     link: 'https://classes.cornell.edu/browse/roster/FA23/class/ENMGT/5960',
