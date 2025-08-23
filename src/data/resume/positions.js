@@ -5,7 +5,7 @@ const positions = [
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
-      'Architected end-to-end development of AI agent, device diagnostics, and network geolocation features that analyze 50B daily records from 19M+ 4G/5G Android OS devices to produce network performance insights with 10 meter precision via a custom GPT; reduced network latency by 35% and improved anomaly detection accuracy by 50%.',
+      'Architected end-to-end development of AI agent, device diagnostics, and network geolocation LLM features that analyze 50B daily records from 19M+ 4G/5G Android OS devices to produce network performance insights with 10 meter precision via a custom GPT; reduced network latency by 35% and improved anomaly detection accuracy by 50%.',
       'Launched 15+ diagnostic software release candidates annually, automated data pipelines (Spark, Hadoop), and integrated Vertica to deliver scalable ETL workflows generating 1000+ actionable KPIs, enabling $100M+ in operational cost savings, and reducing manual data processing time by 70%.',
       'Owned and optimized CI/CD pipelines (Jenkins, Docker) to streamline data ingestion and transformation of 4G/5G network data streaming processes utilizing Kafka, REST APIs, & Snowflake DB; implemented robust analytics validation w/ Android framework, schema comparison, & SonarQube to ensure 99% data accuracy & system reliability.',
       'Drove network optimization by deploying REST APIs (Java / Spring Boot) & Power BI dashboards to monitor $500M+ infrastructure spend, aligning KPIs with business OKRs (e.g. 20% YoY reduction in network downtime)',
@@ -19,7 +19,7 @@ const positions = [
     link: 'https://xandr.com',
     daterange: 'April 2021 - April 2022',
     points: [
-      'Architected and led development of an AI/ML-powered data intelligence platform (Snowflake, Python) that ingested 5+ PB of HBOMax / DirecTV multichannel metrics and analyzed 50M+ household/user metrics (viewing habits, purchasing behavior, interests, sentiments, income), enabling hyper-personalized ad strategies that drove $7B in annual revenue.',
+      'Architected and led development of an AI/ML-powered data intelligence platform (Snowflake, Python) that ingested 5+ PB of HBOMax / DirecTV multichannel metrics and analyzed 50M+ household/user metrics (viewing habits, purchasing behavior, interests, sentiments, income) via a Customer Data Platform, enabling hyper-personalized ad strategies that drove $7B in annual revenue.',
       'Implemented predictive analytics pipelines (Snowflake) to transform raw data into monetizable insights, improving advertising ROI by 20% and reducing manual analysis time by 30% through automated ML workflows.',
       'Streamlined SDLC workflows for 11 data pipelines and scaled ML deployments, accelerating deployment by 10% via CI/CD pipeline optimizations (Jenkins, GitLab)',
       'Designed real-time data ingestion workflows using Kafka and REST APIs, enabling continuous updates to user profiles and ensuring 99% data accuracy for ad targeting.',
