@@ -23,6 +23,11 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
+    title: 'Swift',
+    competency: 3,
+    category: ['Languages'],
+  },
+  {
     title: 'Bash',
     competency: 2,
     category: ['Tools', 'Languages'],
@@ -76,6 +81,16 @@ const skills = [
     title: 'Cross-Functional Collaboration',
     competency: 5,
     category: ['Product & Project Management', 'Concepts'],
+  },
+  {
+    title: 'UI/UX Design-Thinking',
+    competency: 5,
+    category: ['Product & Project Management', 'Concepts'],
+  },
+  {
+    title: 'Product Roadmap (0 to 1)',
+    competency: 5,
+    category: ['Product & Project Management'],
   },
   {
     title: 'Microsoft Word',
@@ -139,7 +154,7 @@ const skills = [
   },
   {
     title: 'Extract, Transform, Load (ETL) Pipelines',
-    competency: 2,
+    competency: 3,
     category: ['Data Science', 'Concepts'],
   },
   {
@@ -263,7 +278,7 @@ const skills = [
   },
   {
     title: 'Microsoft Power BI',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Tools'],
   },
   {
@@ -312,7 +327,7 @@ const skills = [
     category: ['Artificial Intelligence', 'Concepts'],
   },
   {
-    title: 'Retrieval Augmented Generation',
+    title: 'Retrieval Augmented Generation (RAG, GraphRAG)',
     competency: 3,
     category: ['Artificial Intelligence', 'Concepts'],
   },
@@ -326,11 +341,11 @@ const skills = [
     competency: 2,
     category: ['Data Engineering', 'Python'],
   }, */
-  /* {
+  {
     title: 'Mypy',
     competency: 1,
     category: ['Python'],
-  }, */
+  },
   /* {
     //title: 'Pylint',
     //competency: 4,
@@ -345,18 +360,19 @@ const colors = [
   '#00FF00', // Lime Green
   '#34E89E', // Sea Foam Green
   '#00cdac', // Tiffany Teal
-  '#4CBB17', // Kelly Green
+  '#a8e063', // Pale Yellowish Green
   '#64cb7b', // Lighter Green
   '#37b1f5', // Light Blue
   '#31b7c2', // Teal Blue
   '#91EAE4', // Baby Blue
   '#01C101', // Calvin's Green
-  '#747fff', // Lighter Blue
   '#0F3443', // Very Dark Blue
-  '#31b71c', // Lush Green
+  '#747fff', // Lighter Blue
+  '#31b71c', // Lush Green (Similar to Calvin Green)
   '#43cea2', // Tealish Green (Similar to Tiffany Teal)
   '#a8e063', // Pale Yellowish Green
   '#7bc393', // Swamp Green (Similar to Lighter Green)
+  '#4CBB17', // Kelly Green
   '#0BDA51', // Malachite Green
   '#7CFC00', // Grass Green
   '#2CFF05', // Neon Green (Similar to Lime Green)

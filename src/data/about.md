@@ -7,7 +7,7 @@ If you think I can be helpful to you or would like to meet me, please feel free 
 
 # Currently
 
-I am a Senior System Engineering Manager at [AT&T](https://att.com) within the Network Data Automation Intelligence team. I spearhead the end-to-end development of AT&T's artificial intelligence (AI) diagnostic software to astutely ingest and process 4G/5G broadband and geoloation metrics from millions of Android OS devices nationwide; the insights generated accelerates network performance optimization and drives forward critical AI-driven initiatives such as wireless emergency alerts --which were used to notify people during the January 2025 Los Angeles wildfires. I own the planning, development, testing, and launch of over 15 software release candidates each year. Consistently, I cross-functionally collaborate with software engineers, data analysts, quality assurance engineers, legal, marketing, and OEMs (i.e.: Google, Samsung, Motorola) to deliver deliver quality and timely software solutions.
+I am a Senior System Engineering Manager at [AT&T](https://att.com) within the Data Artificial Intelligence team. I spearhead the end-to-end development of AT&T's artificial intelligence (AI) diagnostic software to astutely ingest and process 4G/5G broadband and geoloation metrics from millions of Android OS devices nationwide. The insights generated accelerates network performance optimization, improves anomaly detection, and drives forward critical AI-driven initiatives such as wireless emergency alerts --which were used to notify people during the January 2025 Los Angeles wildfires. I own the planning, development, testing, and launch of over 15 software release candidates each year. Consistently, I cross-functionally collaborate with software engineers, data analysts, quality assurance engineers, legal, marketing, and OEMs (i.e.: Google, Samsung, Motorola) to deliver deliver quality and timely software solutions.
 <br/><br/>
 I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from engineering teams to sales, marketing, and legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
 <br/><br/>
@@ -19,11 +19,11 @@ I earned a Master of Engineering in Engineering Management at [Cornell Universit
 
 - My parents both have Computer Science degrees, so I became familiar with computers from a young age.
 
-- As a kid, I remember playing with my father's clunky computer; I instantly became intrigued by computer programs. I may have endangered his business a couple times by playing around with his computer too much.
+- As a kid, I remember playing with my father's clunky computer; I instantly became intrigued by computer programs. I may have endangered his business a couple times by playing around too much with his computer.
 
 - At 5, I began learning how to swim and ice skate "competitively". After a year, I decided to stick with swimming and give up ice skating because I preferred warm sports over cold sports.
 
-- At 6, I began Chinese school where I learned how to read, write, listen, and speak Mandarin Chinese. For the next 12 years, my weekend mornings were dedicated to Chinese school.
+- At 6, I began Chinese school where I learned how to read, write, listen, and speak Mandarin Chinese. For the next 12 years, my weekend mornings and afternoons were dedicated to Chinese school.
 
 - At 7, my parents gifted me a Gameboy for the 14 hour flight to China. Besides this being my first time visiting Asia, this was the first time I had a gaming device of any kind.
 
@@ -61,16 +61,18 @@ I earned a Master of Engineering in Engineering Management at [Cornell Universit
 
 - At 26, after years of investing and strengthening my financial competencies, I officially surpassed a net worth of $1 million and became a millionaire.
 
-- At 27, this year is still being written...
+- At 27, well... this year is still being written...
 
 Ask me in person for other stories that I'm hesitant to share with the Internet.
 
-# I like...
+# I enjoy...
 
-- Investing / Trading Stocks
+- Investing and Trading Stocks
+- Personal Finance and Credit Cards
+- Real Estate
 - Soccer
 - Swimming
-- Airplanes
+- Airplanes and Flying
 - Traveling
 - Food (if you got a recommendation, please reach out)
 - Learning new things
@@ -80,39 +82,41 @@ Ask me in person for other stories that I'm hesitant to share with the Internet.
 
 # Travel / Geography
 
-- I was born and raised in the Garden State of New Jersey.
-- My current responsibilities at AT&T sometimes sees me flying to Seattle, Washington.
-- I have been to ~ 20 countries, a few of which are a little fuzzy in my memory, and many of which I would like to revisit (especially Japan).
+- I was born and raised in New Jersey.
+- My current role and responsibilities at AT&T sometimes require flying to Seattle, Washington.
+- I have been to over 25 countries, a few of which are a little fuzzy in my memory, and many of which I would like to revisit --such as Japan.
 - In 2016, I visited: Denmark (Copenhagen), Finland (Helsinki), Germany (Berlin), Russia (St. Petersberg), Sweden (Stockholm).
 - In 2017, I visited: Hawaii (Honolulu, Maui), Virginia, Washington D.C.
 - In 2018, I did a software engineering internship in Beijing, China which gave me the opportunity to explore: Hong Kong, Shanghai, Fuzhou, and Japan (Tokyo, Osaka, Kyoto).
 - In 2019, I visited: Florida (Miami).
 - In 2020, I barely traveled 200 feet. I stayed in New Jersey.
 - In 2021, I stayed in the US and visited: California (Irvine, Newport, San Diego), Florida (Fort Lauderdale, Boca Raton) Illinois (Chicago).
-- In 2022, I felt comfortable traveling abroad again and visited: Canada (Niagra Falls, Toronto), France (Paris), Italy (Milan, Rome, Venice).
+- In 2022, I began traveling abroad again and visited: Canada (Niagra Falls, Toronto), France (Paris), Italy (Milan, Rome, Venice).
 - In 2023, I visited: Germany, Malaysia, Scotland (Edinburgh), Singapore, Switzerland (Geneva, Jungfrau, Lucerne, Montreux, Zurich), and Thailand.
+- In 2024, I visited: New Orleans, Denver, Japan (Tokyo, Kyoto, Osaka), South Korea (Seoul), China (Fuzhou), Taiwan (Taipei), Indonesia (Bali), and Singapore.
+- In 2025, I visited: China (Fuzhou, Chengdu, Chongqing), Macau, and Taiwan.
 
 # Fun Facts
 
-- I have a passion for the stock market and have built complex spreadsheets and data visualizations to support my trading (with great returns of 17%+ YoY).
+- I have a passion for the stock market and the financial markets. As a result, I have built complex spreadsheets and data visualizations to support my investing and trading decisions (with great returns of 17%+ YoY).
 - I am an Apple geek; I follow Apple rumors, launch events, and updates like high school teens follow their favorite celebrity.
 - I could juggle a soccer ball (or football for everyone outside the US) 100+ times without the ball hitting the ground.
 - I have a Fear of Missing Out --better known as FOMO. Consequently, I always "go for it" so I do not have regrets later.
-- I added this part because so people said my website was just my resume.
 
 # I dream of...
 
-- making an undeniably profound impact on people's lives through technology.
-- flying a plane (and having passengers who trust me to fly a plane).
+- making a profound impact on people's lives through technology.
+- flying a plane (and having passengers who trust me as a pilot).
 - always finding inspiration from new connections.
 - enabling a brighter future for those around me.
 - continuously learning to expand my horizons.
 - becoming a United Airlines Million Miler (I know... it is ludicrous).
 
-# People I Admire
+# People Who Inspire Me
 
 - [Nicholas Kuo](https://www.linkedin.com/in/nicholaskuo)
 - [Jenna Rhodes](https://www.linkedin.com/in/jenna-rhodes-499501132)
+- [Austin Li] (https://www.linkedin.com/in/austin-li17/)
 - [Abhijit Vempati](https://www.linkedin.com/in/abhijitvempati/)
 
 If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I have not included you. Reach out and I'll add you.

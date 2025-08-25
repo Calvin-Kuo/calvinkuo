@@ -1,6 +1,16 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'BioMe',
+    subtitle: 'Transforming Rehabilitation for Cognitive Speech-Impaired Patients Through Biotechnology and Gamification',
+    image: '/images/projects/BioMeProject.png',
+    date: '2024-05-10',
+    desc:
+      'Partnered with NASA Langley and New York Presbyterian Hospital, BioME integrated brainwave, geolocation, and physiological technology in a gamified rehabilitation software to enrich the rehab experience for cognitive speech-impaired patients. '
+      + 'Improved communication between patients and therapists, progress tracking, and personalized activities, '
+      + 'leading to faster stress regulation and increased patient accessibility in the United States. ',
+  },
+  {
     title: 'Bassett Healthcare Network',
     subtitle: 'Integrating Engineering Management Techniques to Enhance Nursing Workflow Efficiency: Systematic Analyses and Approach Recommendations',
     image: '/images/projects/BassettHealth.png',
@@ -19,8 +29,8 @@ const data = [
     date: '2022-05-10',
     desc:
       'Built a centralized calendar and activity scheduler to help Cornell students stay engaged in campus activities. '
-      + 'Designed an app feature called "DISCOVR" that takes UI/UX inspiration from Instagram and Tinder to help students find interesting events. '
-      + 'Conducted user research and received Cornell faculty and student body praise.',
+      + 'Designed an app feature called "DISCOVR" that takes UI/UX inspiration from Instagram and Tinder to help students find and sign-up for interesting events. '
+      + 'Conducted user research and received positive feedback from Cornell University faculty and student body.',
   },
   {
     title: 'HBO Max Virtual Reality',
@@ -28,8 +38,8 @@ const data = [
     image: '/images/projects/HBOMaxVR.png',
     date: '2019-08-12',
     desc:
-      'Ideated an engaging new way to stream HBO Max using Virtual Reality (VR). '
-      + 'Developed interactive "galaxy exploration" UI/UX using Unity, Oculus VR, Blender, and other tools. '
+      'Ideated an engaging new way to stream HBO Max using Virtual Reality (VR) on the Meta Oculus. '
+      + 'Developed interactive "galaxy exploration" UI/UX using Unity, Oculus VR, Blender, and other development tools. '
       + 'Pitched and demoed to AT&T and HBO executive leadership.',
   },
   {
