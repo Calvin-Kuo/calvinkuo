@@ -28,19 +28,19 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'Amazon Web Services (AWS S3, EC2)',
+    title: 'Amazon Web Services (AWS S3, EC2, Glue)',
     competency: 2,
-    category: ['Cloud', 'Web Development', 'Tools'],
+    category: ['Cloud', 'Web Development', 'Tools', 'Data Engineering'],
   },
   {
     title: 'Microsoft Azure (Synapse, Data Factory)',
     competency: 3,
-    category: ['Cloud', 'Web Development', 'Tools'],
+    category: ['Cloud', 'Web Development', 'Tools', 'Data Engineering'],
   },
   {
-    title: 'Google Cloud Compute',
+    title: 'Google Cloud Platform (GCP BigQuery, Dataflow)',
     competency: 2,
-    category: ['Cloud', 'Web Development', 'Tools'],
+    category: ['Cloud', 'Web Development', 'Tools', 'Data Engineering'],
   },
   {
     title: 'Atlassian Jira',
@@ -73,6 +73,11 @@ const skills = [
     category: ['Product & Project Management', 'Concepts', 'DevOps'],
   },
   {
+    title: 'Cross-Functional Collaboration',
+    competency: 5,
+    category: ['Product & Project Management', 'Concepts'],
+  },
+  {
     title: 'Microsoft Word',
     competency: 5,
     category: ['Product & Project Management', 'Tools'],
@@ -88,14 +93,29 @@ const skills = [
     category: ['Product & Project Management', 'Tools'],
   },
   {
+    title: 'Microsoft Outlook',
+    competency: 5,
+    category: ['Product & Project Management', 'Tools'],
+  },
+  {
+    title: 'Microsoft Sharepoint',
+    competency: 5,
+    category: ['Product & Project Management', 'Tools'],
+  },
+  {
     title: 'Figma',
     competency: 3,
     category: ['Product & Project Management', 'Tools'],
   },
   {
-    title: 'PostgreSQL / SQLite3 / SQL',
+    title: 'SQL (mySQL, PostgreSQL, SQLite3)',
     competency: 3,
-    category: ['Web Development', 'Databases', 'Languages'],
+    category: ['Web Development', 'Databases', 'Languages', 'Data Science'],
+  },
+  {
+    title: 'NoSQL (MongoDB, Cassendra)',
+    competency: 3,
+    category: ['Web Development', 'Databases', 'Languages', 'Data Science'],
   },
   {
     title: 'Databricks',
@@ -108,13 +128,28 @@ const skills = [
     category: ['Databases', 'Tools', 'Data Engineering'],
   },
   {
+    title: 'Data Lakes (Delta Lakes)',
+    competency: 3,
+    category: ['Databases', 'Concepts', 'Data Engineering'],
+  },
+  {
+    title: 'Data Warehouses (Redshift, BigQuery)',
+    competency: 3,
+    category: ['Databases', 'Concepts', 'Data Engineering'],
+  },
+  {
+    title: 'Extract, Transform, Load (ETL) Pipelines',
+    competency: 2,
+    category: ['Data Science', 'Concepts'],
+  },
+  {
     title: 'Data Mining',
-    competency: 1,
+    competency: 2,
     category: ['Data Science', 'Concepts'],
   },
   {
     title: 'Device Integration',
-    competency: 3,
+    competency: 4,
     category: ['Concepts'],
   },
   /* {
@@ -133,7 +168,7 @@ const skills = [
     category: ['Web Development', 'Python'],
   }, */
   {
-    title: 'Git/Mercurial',
+    title: 'Git / Mercurial',
     competency: 3,
     category: ['Tools', 'DevOps'],
   },
@@ -154,12 +189,12 @@ const skills = [
   },
   {
     title: 'Docker',
-    competency: 2,
+    competency: 3,
     category: ['Tools', 'Data Engineering', 'DevOps'],
   },
   {
     title: 'Kubernetes',
-    competency: 2,
+    competency: 3,
     category: ['Tools', 'Data Engineering', 'DevOps'],
   },
   {
@@ -174,37 +209,37 @@ const skills = [
   }, */
   {
     title: 'Tensorflow + Keras',
-    competency: 1,
-    category: ['Data Science', 'Python'],
+    competency: 2,
+    category: ['Data Science', 'Python', 'Artificial Intelligence'],
   },
   {
     title: 'Jupyter',
     competency: 3,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science', 'Python', 'Tools'],
   },
   {
     title: 'Typescript',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
-    title: 'HTML + SASS/SCSS/CSS',
+    title: 'HTML + SASS / SCSS / CSS',
     competency: 3,
     category: ['Web Development', 'Languages'],
   },
   {
     title: 'Python',
-    competency: 2,
-    category: ['Languages', 'Python'],
+    competency: 3,
+    category: ['Languages', 'Python', 'Data Science'],
   },
   {
     title: 'C',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {
     title: 'C++',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   /* {
@@ -218,13 +253,13 @@ const skills = [
     cate */
   {
     title: 'R',
-    competency: 2,
-    category: ['Languages'],
+    competency: 3,
+    category: ['Languages', 'Data Science'],
   },
   {
     title: 'Data Visualization',
-    competency: 3,
-    category: ['Data Science', 'Javascript'],
+    competency: 4,
+    category: ['Data Science', 'Javascript', 'Concepts'],
   },
   {
     title: 'Microsoft Power BI',
@@ -233,7 +268,7 @@ const skills = [
   },
   {
     title: 'Tableau',
-    competency: 2,
+    competency: 3,
     category: ['Data Science', 'Tools'],
   },
   {
@@ -243,7 +278,7 @@ const skills = [
   },
   {
     title: 'Pandas',
-    competency: 1,
+    competency: 2,
     category: ['Data Engineering', 'Data Science', 'Python'],
   },
   {
@@ -253,29 +288,49 @@ const skills = [
   },
   {
     title: 'Scikit-Learn',
-    competency: 1,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    competency: 2,
+    category: ['Data Engineering', 'Data Science', 'Python', 'Artificial Intelligence'],
   },
   {
-    title: 'Hadoop',
+    title: 'Apache Hadoop',
+    competency: 3,
+    category: ['Data Engineering', 'Data Science'],
+  },
+  {
+    title: 'Apache Kafka',
+    competency: 3,
+    category: ['Data Engineering', 'Data Science'],
+  },
+  {
+    title: 'Apache Spark',
     competency: 2,
     category: ['Data Engineering', 'Data Science'],
   },
   {
-    title: 'Spark',
+    title: 'Large Language Model (LLM)',
+    competency: 3,
+    category: ['Artificial Intelligence', 'Concepts'],
+  },
+  {
+    title: 'Retrieval Augmented Generation',
+    competency: 3,
+    category: ['Artificial Intelligence', 'Concepts'],
+  },
+  {
+    title: 'Vector Embeddings / Vector Databases',
     competency: 2,
-    category: ['Data Engineering', 'Data Science'],
+    category: ['Databases', 'Artificial Intelligence', 'Concepts'],
   },
   /* {
     title: 'Dagster',
     competency: 2,
     category: ['Data Engineering', 'Python'],
   }, */
-  {
+  /* {
     title: 'Mypy',
     competency: 1,
     category: ['Python'],
-  },
+  }, */
   /* {
     //title: 'Pylint',
     //competency: 4,
@@ -286,19 +341,26 @@ const skills = [
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until finding a likable pattern.
 const colors = [
-  '#01C101', // Calvin's Green
-  '#a8e063', // Pale Yellowish Green
+  '#008000', // Green
+  '#00FF00', // Lime Green
   '#34E89E', // Sea Foam Green
   '#00cdac', // Tiffany Teal
+  '#4CBB17', // Kelly Green
   '#64cb7b', // Lighter Green
   '#37b1f5', // Light Blue
-  '#7bc393', // Swamp Green
   '#31b7c2', // Teal Blue
   '#91EAE4', // Baby Blue
+  '#01C101', // Calvin's Green
   '#747fff', // Lighter Blue
   '#0F3443', // Very Dark Blue
-  '#43cea2', // Tealish Green
   '#31b71c', // Lush Green
+  '#43cea2', // Tealish Green (Similar to Tiffany Teal)
+  '#a8e063', // Pale Yellowish Green
+  '#7bc393', // Swamp Green (Similar to Lighter Green)
+  '#0BDA51', // Malachite Green
+  '#7CFC00', // Grass Green
+  '#2CFF05', // Neon Green (Similar to Lime Green)
+  '#00CC00', // Tunic Green (Similar to Calvin Green)
 ];
 /*
   Original Color Ideas
