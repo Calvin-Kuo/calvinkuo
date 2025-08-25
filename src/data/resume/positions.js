@@ -5,12 +5,12 @@ const positions = [
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
-      'Architected end-to-end development of AI agent, device diagnostics, and network geolocation LLM features that analyze 50B daily records from 19M+ 4G/5G Android OS devices to produce network performance insights with 10 meter precision via a custom GPT; reduced network latency by 35% and improved anomaly detection accuracy by 50%.',
-      'Launched 15+ diagnostic software release candidates annually, automated data pipelines (Spark, Hadoop), and integrated Vertica to deliver scalable ETL workflows generating 1000+ actionable KPIs, enabling $100M+ in operational cost savings, and reducing manual data processing time by 70%.',
-      'Owned and optimized CI/CD pipelines (Jenkins, Docker) to streamline data ingestion and transformation of 4G/5G network data streaming processes utilizing Kafka, REST APIs, & Snowflake DB; implemented robust analytics validation w/ Android framework, schema comparison, & SonarQube to ensure 99% data accuracy & system reliability.',
+      'Architected end-to-end development of AI agent, device diagnostics, and network geolocation LLM features that analyze 50B daily records from 19M+ 4G/5G Android OS devices to produce network performance insights with 10 meter precision via an internal GPT; reduced network latency by 35% and improved anomaly detection accuracy by 50%.',
+      'Launched over 15 software release candidates each year, automated data pipelines, and scaled ETL workflows (Kafka, Databricks, Snowflake) generating 1000+ actionable KPIs, enabling $100M+ in operational cost savings, and reducing manual data processing time by 70%.',
+      'Owned and optimized CI/CD pipelines (Jenkins, Docker) to streamline data ingestion and transformation of 4G/5G network data streaming processes utilizing Kafka, REST APIs, & Snowflake DB; implemented robust analytics validation with Android framework, schema comparison, & SonarQube to ensure 99% data accuracy & system reliability.',
       'Drove network optimization by deploying REST APIs (Java / Spring Boot) & Power BI dashboards to monitor $500M+ infrastructure spend, aligning KPIs with business OKRs (e.g. 20% YoY reduction in network downtime)',
-      'Defined device integration roadmaps for 100+ device models annually; developed A/B testing strategies to evaluate feature impacts, triaged KPI-critical issues via Atlassian Jira / Confluence; prioritized binaries, test validation milestones, & patch builds w/ R&D.',
-      'Led quarterly PI planning, weekly backlog grooming, and daily Scrum standups; partnered with engineering, QA, marketing, & Google / OEM R&D teams to align on technical roadmaps, mitigate risks and blockers, and deliver AI automation solutions 30% faster across the agile release cycles.',
+      'Defined device integration roadmaps for 100+ device models annually; developed A/B testing strategies to evaluate feature impacts, triaged KPI-critical issues via Atlassian Jira / Confluence; prioritized binaries, test validation milestones, & patch builds with R&D.',
+      'Led quarterly PI planning, weekly backlog grooming, and daily Scrum standups; partnered with engineering, QA, marketing, & OEM R&D teams (Google, Samsung) to align on technical roadmaps, mitigate risks and blockers, and deliver AI automation solutions 30% faster across the agile release cycles.',
     ],
   },
   {
