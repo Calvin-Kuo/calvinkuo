@@ -7,7 +7,7 @@ If you think I can be helpful to you or would like to meet me, please feel free 
 
 # Currently
 
-I am a Senior System Engineering Manager at [AT&T](https://att.com) within the Data Artificial Intelligence team. I spearhead the end-to-end development of AT&T's artificial intelligence (AI) diagnostic software to astutely ingest and process 4G/5G broadband and geoloation metrics from millions of Android OS devices nationwide. The insights generated accelerates network performance optimization, improves anomaly detection, and drives forward critical AI-driven initiatives such as wireless emergency alerts --which were used to notify people during the January 2025 Los Angeles wildfires. I own the planning, development, testing, and launch of over 15 software release candidates each year. Consistently, I cross-functionally collaborate with software engineers, data analysts, quality assurance engineers, legal, marketing, and OEMs (i.e.: Google, Samsung, Motorola) to deliver deliver quality and timely software solutions.
+I am a Senior System Engineering Manager at [AT&T](https://att.com) working within the Data Artificial Intelligence team. I spearhead the end-to-end development of AT&T's artificial intelligence (AI) diagnostic software to astutely ingest and process 4G/5G broadband and geoloation metrics from millions of Android OS devices nationwide. The insights generated accelerates network performance optimization, improves anomaly detection, and drives forward critical AI-driven initiatives such as wireless emergency alerts --which were used to notify people during the January 2025 Los Angeles wildfires. I own the planning, development, testing, and launch of over 15 software release candidates each year. Consistently, I cross-functionally collaborate with software engineers, data analysts, quality assurance engineers, legal, marketing, and OEMs (i.e.: Google, Samsung, Motorola) to deliver deliver quality and timely software solutions.
 <br/><br/>
 I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from engineering teams to sales, marketing, and legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
 <br/><br/>
@@ -63,7 +63,7 @@ I earned a Master of Engineering in Engineering Management at [Cornell Universit
 
 - At 27, well... this year is still being written...
 
-Ask me in person for other stories that I'm hesitant to share with the Internet.
+Ask me in person for other stories that I am hesitant to share with the Internet.
 
 # I enjoy...
 
@@ -74,7 +74,7 @@ Ask me in person for other stories that I'm hesitant to share with the Internet.
 - Swimming
 - Airplanes and Flying
 - Traveling
-- Food (if you got a recommendation, please reach out)
+- Food (Find Me on [Beli](https://beliapp.co/app/CalvinKuo))
 - Learning new things
 - Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
 - [Good design](/)
@@ -116,7 +116,7 @@ Ask me in person for other stories that I'm hesitant to share with the Internet.
 
 - [Nicholas Kuo](https://www.linkedin.com/in/nicholaskuo)
 - [Jenna Rhodes](https://www.linkedin.com/in/jenna-rhodes-499501132)
-- [Austin Li] (https://www.linkedin.com/in/austin-li17/)
+- [Austin Li](https://www.linkedin.com/in/austin-li17/)
 - [Abhijit Vempati](https://www.linkedin.com/in/abhijitvempati/)
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I have not included you. Reach out and I'll add you.
+If we are friends and you feel like you belong on this list, you are probably right. I am sorry I have not included you. Reach out and I will add you.
