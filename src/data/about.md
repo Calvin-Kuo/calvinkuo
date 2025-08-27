@@ -1,13 +1,13 @@
 
 # Introduction
 
-Hello, my name is Calvin! My passion is to build profound products and services that improve customer experiences and foster an innovative culture. I cross-functionally operate at the intersection between engineering and business management to holistically orchestrate the engineering process to define, design, develop, and launch impactful solutions to address complex problems.
+Hello, my name is Calvin! My passion is to build profound products and services that enrich customer experiences and foster an innovative culture. I cross-functionally lead at the intersection between engineering and business management to holistically orchestrate the engineering process to define, design, develop, and launch impactful solutions to address complex problems.
 <br/><br/>
 If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
-I am a Senior System Engineering Manager at [AT&T](https://att.com) working within the Data Artificial Intelligence team. I spearhead the end-to-end development of AT&T's artificial intelligence (AI) diagnostic software to astutely ingest and process 4G/5G broadband and geoloation metrics from millions of Android OS devices nationwide. The insights generated accelerates network performance optimization, improves anomaly detection, and drives forward critical AI-driven initiatives such as wireless emergency alerts --which were used to notify people during the January 2025 Los Angeles wildfires. I own the planning, development, testing, and launch of over 15 software release candidates each year. Consistently, I cross-functionally collaborate with software engineers, data analysts, quality assurance engineers, legal, marketing, and OEMs (i.e.: Google, Samsung, Motorola) to deliver deliver quality and timely software solutions.
+I am a Senior System Engineering Manager at [AT&T](https://att.com) working within the Data Artificial Intelligence team. I spearhead the end-to-end development of AT&T's artificial intelligence (AI) diagnostic software to astutely ingest and process 4G/5G broadband and geolocation metrics from millions of Android OS devices nationwide. We built agentic AI and LLM (GraphRag) features to automate processes, proactively address issues, and save effort across stakeholders. The insights generated accelerates network performance optimization, improves anomaly detection, and drives forward critical AI-driven initiatives such as wireless emergency alerts --which were used to notify people during the January 2025 Los Angeles wildfires. I own the planning, development, testing, and launch of over 15 software release candidates each year. Consistently, I cross-functionally collaborate with software engineers, data analysts, quality assurance engineers, legal, marketing, and OEMs (i.e.: Google, Samsung, Motorola) to deliver deliver quality and timely software solutions.
 <br/><br/>
 I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from engineering teams to sales, marketing, and legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
 <br/><br/>
@@ -51,15 +51,15 @@ I earned a Master of Engineering in Engineering Management at [Cornell Universit
 
 - At 20, I learned about resiliency when faced with rejection. I interned as a software engineer for Johnson & Johnson and Huawei where I strengthened my understanding about cloud architecture.
 
-- At 21, I was selected to be a Computer Science instructor and taught my first university course. I also completed an internship with AT&T's Technology Development Program as a Technical Project Manager Intern. This year I learned how to develop Augmented Reality (AR) and Virtual Reality (VR) applications.
+- At 21, I was selected to be a Computer Science instructor and taught my first university course. I also completed an internship with AT&T's Technology Development Program as a Technical Product Manager. This year I learned how to develop Augmented Reality (AR) and Virtual Reality (VR) applications.
 
-- At 22, I graduated from Rutgers University with a Bachelor of Science in Computer Science. I joined AT&T as a Technical Project Manager as part of their Cloud Architecture team.
+- At 22, I graduated from Rutgers University with a Bachelor of Science in Computer Science. I joined AT&T as a Technical Product Manager as part of their Cloud Architecture team.
 
 - At 23, while working full-time, I began pursuing my Master of Engineering degree at Cornell University. I was also promoted to Senior Technical Product Manager at AT&T within the Enterprise Advertising Data team. 
 
-- At 24, I filed my first patent with the U.S. Patent Office. After proven results and leadership recognition for my impact, I was promoted to Senior System Engineering Manager at AT&T working within the Network Data Automation Intelligence team.
+- At 24, I filed my first patent with the U.S. Patent Office. After proven results and leadership recognition for my impact, I was promoted to Senior System Engineering Manager at AT&T working within the Data Artificial Intelligence team.
 
-- At 26, after years of investing and strengthening my financial competencies, I officially surpassed a net worth of $1 million and became a millionaire.
+- At 26, after years of strategic investing and diligent personal finance, I officially surpassed a net worth of $1 million and became a millionaire. I continue to stengthen my financial competencies in areas such as real estate and crypto.
 
 - At 27, well... this year is still being written...
 
@@ -89,7 +89,7 @@ Ask me in person for other stories that I am hesitant to share with the Internet
 - In 2017, I visited: Hawaii (Honolulu, Maui), Virginia, Washington D.C.
 - In 2018, I did a software engineering internship in Beijing, China which gave me the opportunity to explore: Hong Kong, Shanghai, Fuzhou, and Japan (Tokyo, Osaka, Kyoto).
 - In 2019, I visited: Florida (Miami).
-- In 2020, I barely traveled 200 feet. I stayed in New Jersey.
+- In 2020, I barely traveled 200 feet due to the pandemic.
 - In 2021, I stayed in the US and visited: California (Irvine, Newport, San Diego), Florida (Fort Lauderdale, Boca Raton) Illinois (Chicago).
 - In 2022, I began traveling abroad again and visited: Canada (Niagra Falls, Toronto), France (Paris), Italy (Milan, Rome, Venice).
 - In 2023, I visited: Germany, Malaysia, Scotland (Edinburgh), Singapore, Switzerland (Geneva, Jungfrau, Lucerne, Montreux, Zurich), and Thailand.
@@ -98,7 +98,7 @@ Ask me in person for other stories that I am hesitant to share with the Internet
 
 # Fun Facts
 
-- I have a passion for the stock market and the financial markets. As a result, I have built complex spreadsheets and data visualizations to support my investing and trading decisions (with great returns of 17%+ YoY).
+- I have a passion for the stock market and general financial markets. As a result, I have built complex spreadsheets and data visualizations to support my investing and trading decisions (with great returns of 17%+ YoY).
 - I am an Apple geek; I follow Apple rumors, launch events, and updates like high school teens follow their favorite celebrity.
 - I could juggle a soccer ball (or football for everyone outside the US) 100+ times without the ball hitting the ground.
 - I have a Fear of Missing Out --better known as FOMO. Consequently, I always "go for it" so I do not have regrets later.
