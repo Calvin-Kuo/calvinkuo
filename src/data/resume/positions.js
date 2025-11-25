@@ -1,12 +1,14 @@
 const positions = [
   {
     company: 'AT&T',
-    position: 'Senior System Engineering Manager, Data AI',
+    position: 'Senior System Engineering Manager, Data & AI',
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
-      'Launched network diagnostic LLMs (NLP, GraphRAG) and device geolocation AI with 10 meter precision, enabling operations teams to identify network investment opportunities that reduced network latency by 35% and empower customer care to resolve anomalies with 50% greater accuracy.',
-      'Architected end-to-end development of AI agent that analyze 50B daily records from over 19M Android OS devices to produce network performance insights and proactively address issues.',
+      'Launched network diagnostic LLMs (NLP, GraphRAG) and device geolocation AI with 10 meter precision, powering AT&T’s internal GPT platform so operations teams can uncover network investment opportunities that reducing network latency 35% and customer care can diagnose and resolve anomalies 50% more accurately.',
+      'Engineered a 3PB data ecosystem capable of processing 50B+ events/day and generating over 1,000 KPIs, unlocking $100M+ in operational savings and reducing manual processing time 70%.',
+      'Architected end-to-end development .',
+      'Built a 3PB data ecosystem processing over 50B records/day, generating over 1,000 KPIs, and unlocking $100M in savings while reducing manual effort 70%.',
       'Launched over 15 software release candidates each year, automated data pipelines, and scaled ETL workflows (Kafka, Databricks, Snowflake) generating 1000+ actionable KPIs, enabling $100M+ in operational cost savings, and reducing manual data processing time by 70%.',
       'Owned and optimized CI/CD pipelines (Jenkins, Docker) to streamline data ingestion and transformation of 4G/5G network data streaming processes utilizing Kafka, REST APIs, & Snowflake DB; implemented robust analytics validation with Android framework, schema comparison, & SonarQube to ensure 99% data accuracy & system reliability.',
       'Drove network optimization by deploying REST APIs (Java / Spring Boot) and Power BI dashboards to visualize $500M infrastructure spend, aligning KPIs with business OKRs (e.g. 20% YoY reduction in network downtime)',
@@ -16,7 +18,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Senior Technical Product Manager, Enterprise Advertising Data',
+    position: 'Senior Technical Product Manager, Enterprise Ads Data Platform',
     link: 'https://xandr.com',
     daterange: 'April 2021 - April 2022',
     points: [
@@ -30,7 +32,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Technical Product Manager, Cloud Architecture',
+    position: 'Technical Product Manager, Cloud Infrastructure',
     link: 'https://att.com',
     daterange: 'July 2020 - April 2021',
     points: [
@@ -90,7 +92,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Technical Product Manager / Release Train Engineer, FirstNet',
+    position: 'Technical Product Manager, FirstNet Public Safety',
     link: 'https://att.com',
     daterange: 'June 2019 - August 2019',
     points: [
