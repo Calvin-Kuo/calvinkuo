@@ -5,7 +5,7 @@ const positions = [
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
-      'Spearhead product strategy for AT&T’s large-scale data and AI platforms, delivering predictive diagnostics, real-time geolocation intelligence, and automation capabilities that strengthen network reliability and elevate customer experience across millions of mobile devices.',
+      'Own the product strategy for AT&T’s large-scale data and AI platforms, delivering predictive diagnostics, real-time geolocation intelligence, and automation capabilities that strengthen network reliability and elevate customer experience across millions of mobile devices.',
       'Drive the development of advanced GenAI solutions, including LLM-powered diagnostics and retrieval-augmented analytics, to help engineering and operations teams identify issues faster, uncover optimization opportunities, and accelerate problem resolution significantly faster.',
       'Oversee end-to-end architecture for high-volume telemetry ecosystems, guiding design decisions across ingestion, data quality, ML pipelines, and analytics layers to ensure accuracy, resilience, and scalability for mission-critical, multi-billion-event workloads.',
       'Partner closely with major OEMs, including Google and Samsung, to define device-level integration roadmaps for over 100 device model variants, validate new capabilities, and ensure interoperability across diverse Android ecosystems, driving consistent improvements in firmware reliability and device performance KPIs.',
@@ -20,8 +20,8 @@ const positions = [
     link: 'https://xandr.com',
     daterange: 'April 2021 - April 2022',
     points: [
-      'Owned the 0→1 development of an enterprise-scale ads intelligence platform, transforming multi-petabyte viewership and behavioral datasets into actionable insights that powered a multi-billion-dollar hyper-personalized advertising ecosystem and informed business-wide monetization strategies.',
-      'Defined product vision, roadmap, and success metrics for identity resolution, audience segmentation, and predictive modeling capabilities, driving double-digit improvements in relevant ad experiences and campaign performance efficiency.',
+      'Spearheaded the 0→1 development of an enterprise-scale ads intelligence platform, transforming multi-petabyte viewership and behavioral datasets into actionable insights that powered a multi-billion-dollar hyper-personalized advertising ecosystem and informed business-wide monetization strategies.',
+      'Shaped product vision, roadmap, and success metrics for identity resolution, audience segmentation, and predictive modeling capabilities, driving double-digit improvements in relevant ad experiences and campaign performance efficiency.',
       'Partnered with engineering, data science, and legal teams to deliver scalable ML pipelines and privacy-centric data governance frameworks, ensuring reliability, accuracy, and trust across all high-volume, downstream ad products.',
       'Orchestrated end-to-end execution of ML feature deployment, improving experimentation velocity and accelerating release cycles through optimized CI/CD workflows and automated pipeline validation.',
       'Built scalable telemetry and streaming data frameworks that enabled continuous updates to audience profiles, supporting real-time targeting and higher-impact ad delivery decisions.',
