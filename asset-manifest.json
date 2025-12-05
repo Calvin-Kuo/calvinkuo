@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/calvinkuo/static/css/main.d4403bfe.css",
-    "main.js": "/calvinkuo/static/js/main.ae3eb2e4.js",
+    "main.js": "/calvinkuo/static/js/main.0d04130b.js",
     "static/js/964.fdb54daa.chunk.js": "/calvinkuo/static/js/964.fdb54daa.chunk.js",
     "static/js/117.238e452c.chunk.js": "/calvinkuo/static/js/117.238e452c.chunk.js",
     "static/js/478.7e407b80.chunk.js": "/calvinkuo/static/js/478.7e407b80.chunk.js",
     "static/js/922.fefd4601.chunk.js": "/calvinkuo/static/js/922.fefd4601.chunk.js",
     "static/js/161.3cb89380.chunk.js": "/calvinkuo/static/js/161.3cb89380.chunk.js",
-    "static/js/689.2fedf8fc.chunk.js": "/calvinkuo/static/js/689.2fedf8fc.chunk.js",
+    "static/js/689.0685c8ac.chunk.js": "/calvinkuo/static/js/689.0685c8ac.chunk.js",
     "static/js/191.84e63edc.chunk.js": "/calvinkuo/static/js/191.84e63edc.chunk.js",
     "static/js/209.d464d894.chunk.js": "/calvinkuo/static/js/209.d464d894.chunk.js",
     "static/js/312.a89dcbe9.chunk.js": "/calvinkuo/static/js/312.a89dcbe9.chunk.js",
     "index.html": "/calvinkuo/index.html",
     "main.d4403bfe.css.map": "/calvinkuo/static/css/main.d4403bfe.css.map",
-    "main.ae3eb2e4.js.map": "/calvinkuo/static/js/main.ae3eb2e4.js.map",
+    "main.0d04130b.js.map": "/calvinkuo/static/js/main.0d04130b.js.map",
     "964.fdb54daa.chunk.js.map": "/calvinkuo/static/js/964.fdb54daa.chunk.js.map",
     "117.238e452c.chunk.js.map": "/calvinkuo/static/js/117.238e452c.chunk.js.map",
     "478.7e407b80.chunk.js.map": "/calvinkuo/static/js/478.7e407b80.chunk.js.map",
     "922.fefd4601.chunk.js.map": "/calvinkuo/static/js/922.fefd4601.chunk.js.map",
     "161.3cb89380.chunk.js.map": "/calvinkuo/static/js/161.3cb89380.chunk.js.map",
-    "689.2fedf8fc.chunk.js.map": "/calvinkuo/static/js/689.2fedf8fc.chunk.js.map",
+    "689.0685c8ac.chunk.js.map": "/calvinkuo/static/js/689.0685c8ac.chunk.js.map",
     "191.84e63edc.chunk.js.map": "/calvinkuo/static/js/191.84e63edc.chunk.js.map",
     "209.d464d894.chunk.js.map": "/calvinkuo/static/js/209.d464d894.chunk.js.map",
     "312.a89dcbe9.chunk.js.map": "/calvinkuo/static/js/312.a89dcbe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4403bfe.css",
-    "static/js/main.ae3eb2e4.js"
+    "static/js/main.0d04130b.js"
   ]
 }
