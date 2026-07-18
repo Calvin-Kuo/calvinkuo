@@ -1,11 +1,9 @@
 
 # Introduction
 
-Hi, I'm Calvin!
+Hi, I'm Calvin! I'm endlessly fascinated by solving difficult problems with ambiguous requirements. Whether it's building AI products, improving customer experiences, or helping organizations make better decisions with data, I love understanding complex systems deeply enough to make them feel intuitive and valuable.
 <br/><br/>
-I'm endlessly fascinated by solving difficult problems with ambiguous requirements. Whether it's building AI products, improving customer experiences, or helping organizations make better decisions with data, I love taking something complex and turning it into something intuitive and valuable.
-<br/><br/>
-Product management gives me the opportunity to combine everything I enjoy most: understanding people, learning new technologies, thinking strategically, and collaborating with talented teams to build profound products that make a real difference. I want my work to enrich lives and inspire innovation.
+Product management gives me the opportunity to combine everything I enjoy most: understanding people, learning new technologies, thinking strategically, and collaborating with talented teams to build products that make a meaningful difference. I want my work to enrich lives and inspire innovation.
 <br/><br/>
 If you think we'd enjoy working together or you'd like to simply connect about product management, AI, investing, or technology, I'd love to hear from you.
 
@@ -19,14 +17,18 @@ What excites me most about product management is solving difficult customer prob
 <br/><br/>
 I value curiosity over certainty, ownership over titles, and continuous learning over being right. I enjoy asking difficult questions, challenging assumptions respectfully, and creating alignment between engineering, business, and customers. The best teams I've worked with weren't defined by perfect execution—they were defined by trust, transparency, and a shared commitment to solving meaningful problems.
 <br/><br/>
-I earned my Master of Engineering in Engineering Management from [Cornell University](https://cornell.edu). I earned my Bachelor of Science in Computer Science from [Rutgers University](https://rutgers.edu). Outside of work, I'm passionate about investing, financial markets, entrepreneurship, and emerging AI technologies. I enjoy understanding how businesses create durable competitive advantages and thinking about the long-term impact AI will have across industries.
+I earned a Master of Engineering in Engineering Management from [Cornell University](https://cornell.edu) and a Bachelor of Science in Computer Science from [Rutgers University](https://rutgers.edu). Outside of work, I'm passionate about investing, financial markets, entrepreneurship, and emerging AI technologies. I enjoy understanding how businesses create durable competitive advantages and thinking about the long-term impact AI will have across industries.
 
-# I Believe...
-Great product managers create value — not just roadmaps. Leadership is about creating an environment where talented people can do their best work.
+# What I Believe
+Great product managers create value — not just roadmaps.
 <br/><br/>
 The best ideas don't come from conference rooms; they come from deeply understanding customers, questioning assumptions, and validating decisions with evidence.
 <br/><br/>
-I've found that the most rewarding products are built when engineers, designers, and business leaders feel like they're solving the same problem together. My role is often less about having all the answers and more about creating clarity, aligning people around a common vision, and empowering teams to do their best work.
+Leadership isn't about having all the answers. It's about creating clarity, aligning people around a shared vision, and building an environment that empowers talented teams to do their best work.
+<br/><br/>
+The best products are built when engineers, designers, and business leaders feel like they're solving the same problem together — not working toward competing goals.
+<br/><br/>
+Technology should make people's lives simpler, not more complicated. Few things are more rewarding than watching a customer use a product and realizing something that once took hours now takes minutes because of something my team built.
 
 # Some History
 
@@ -99,7 +101,7 @@ Ask me in person for other stories that I am hesitant to share with the Internet
 
 - I was born and raised in New Jersey.
 - My current role and responsibilities at AT&T sometimes require flying to Seattle, Washington.
-- I have been to over 25 countries, a few of which are a little fuzzy in my memory, and many of which I would like to revisit --such as Japan.
+- I have been to over 30 countries, a few of which are a little fuzzy in my memory, and many of which I would like to revisit --such as Japan.
 - In 2016, I visited: Denmark (Copenhagen), Finland (Helsinki), Germany (Berlin), Russia (St. Petersberg), Sweden (Stockholm).
 - In 2017, I visited: Hawaii (Honolulu, Maui), Virginia, Washington D.C.
 - In 2018, I did a software engineering internship in Beijing, China which gave me the opportunity to explore: Hong Kong, Shanghai, Fuzhou, and Japan (Tokyo, Osaka, Kyoto).
@@ -110,6 +112,7 @@ Ask me in person for other stories that I am hesitant to share with the Internet
 - In 2023, I visited: Germany, Malaysia, Scotland (Edinburgh), Singapore, Switzerland (Geneva, Jungfrau, Lucerne, Montreux, Zurich), and Thailand.
 - In 2024, I visited: New Orleans, Denver, Japan (Tokyo, Kyoto, Osaka), South Korea (Seoul), China (Fuzhou), Taiwan (Taipei), Indonesia (Bali), and Singapore.
 - In 2025, I visited: China (Fuzhou, Chengdu, Chongqing), Macau, and Taiwan.
+- In 2026, I visited: Czechia (Prague), Austria (Vienna), Hungary (Budapest), and Germany. Also, went to Washington D.C. as it was the United States' 250 years.
 
 # Fun Facts
 
