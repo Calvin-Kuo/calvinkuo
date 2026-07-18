@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Dryft',
+    subtitle: 'Find The Right Aftermarket Parts for Your Exact Vehicle — With Zero Guesswork.',
+    link: 'https://teamdryft.com/',
+    image: '/images/projects/TeamDryft.png',
+    date: 'March 2026',
+    desc:
+      'One search. One interface. All the parts that fit your exact car - with vendor links, compatibility checks, and curated recommendations. '
+      + 'Quickly explore a personalized catalog of high-quality components, compare parts and pricing, and choose a reputable shop that can help you install — all in one place. '
+      + 'Currently accepting waitlists. For inquiries, email hey@teamdryft.com.',
+  },
+  {
     title: 'BioMe',
     subtitle: 'Transforming Rehabilitation for Cognitive Speech-Impaired Patients Through Biotechnology and Gamification',
     image: '/images/projects/BioMeProject.png',

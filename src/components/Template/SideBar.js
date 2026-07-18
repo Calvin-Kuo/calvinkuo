@@ -19,9 +19,13 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About Me</h2>
-      <p>Hi, my name is Calvin Kuo. I am a Senior Product Manager at <a href="https://att.com/">AT&amp;T</a> innovating data and AI products at scale. My background sits at the intersection of engineering and business management --translating technical complexity into measurable customer outcomes.
-        I earned my Master of Engineering in Engineering Management at <a href="https://cornell.edu/">Cornell University</a>.
-        I also hold a Bachelor of Science in Computer Science with a Minor in Entrepreneurship from <a href="https://rutgers.edu">Rutgers University - New Brunswick</a>.
+      <p>Hi, I&apos;m Calvin Kuo. I&apos;m a Senior Product Manager who enjoys turning complex
+        technical systems into simple, intuitive products that create meaningful customer value.
+        My work at <a href="https://att.com/">AT&T</a> sits at the intersection of AI, data, and product strategy.
+        I hold a Master of Engineering in Engineering Management from <a href="https://cornell.edu/">Cornell University</a> and
+        a Bachelor of Science in Computer Science with a Minor in Entrepreneurship from <a href="https://rutgers.edu">Rutgers University, New Brunswick</a>.
+      </p>
+      <p>Curious what I&apos;m building outside of work? Check out <a href="https://teamdryft.com/">Dryft</a>.
       </p>
       <ul className="actions">
         <li>
