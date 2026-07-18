@@ -1,14 +1,14 @@
 const positions = [
   {
     company: 'AT&T',
-    position: 'Senior System Engineering Manager, Data & AI',
+    position: 'Senior Product Manager, Data & AI',
     link: 'https://att.com',
     daterange: 'April 2022 - Present',
     points: [
       'Own the product strategy for AT&T’s large-scale data and AI platforms, delivering predictive diagnostics, real-time geolocation intelligence, and automation capabilities that strengthen network reliability and elevate customer experience across millions of mobile devices.',
       'Drive the development of advanced GenAI solutions, including LLM-powered diagnostics and retrieval-augmented analytics, to help engineering and operations teams identify issues faster, uncover optimization opportunities, and accelerate problem resolution significantly faster.',
       'Oversee end-to-end architecture for high-volume telemetry ecosystems, guiding design decisions across ingestion, data quality, ML pipelines, and analytics layers to ensure accuracy, resilience, and scalability for mission-critical, multi-billion-event workloads.',
-      'Partner closely with major OEMs, including Google and Samsung, to define device-level integration roadmaps for over 100 device model variants, validate new capabilities, and ensure interoperability across diverse Android ecosystems, driving consistent improvements in firmware reliability and device performance KPIs.',
+      'Partner closely with major OEMs, including Google and Samsung, to define device-level integration roadmaps for over 140 device model variants, validate new capabilities, and ensure interoperability across diverse Android ecosystems, driving consistent improvements in firmware reliability and device performance KPIs.',
       'Lead cross-functional teams across engineering, AI/ML, design, and business operations, aligning on priorities, resolving technical blockers, and delivering AI-driven features and platform enhancements with predictable velocity and high engineering quality.',
       'Define success metrics, data quality standards, and operational guardrails that tie engineering delivery to measurable customer outcomes, ensuring data quality, model performance, and product decisions directly contribute to measurable improvements in anomaly detection, network responsiveness, and device experience across nationwide user populations.',
       'Evangelize platform capabilities across the organization, influencing adoption, enabling new use cases, and guiding stakeholders on how to leverage AI insights, real-time KPIs, and analytics frameworks for strategic decision-making.',
@@ -16,7 +16,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Senior Technical Product Manager, Ads Data Platform',
+    position: 'Senior Product Manager, Ads Data Platform',
     link: 'https://xandr.com',
     daterange: 'April 2021 - April 2022',
     points: [
@@ -30,7 +30,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Technical Product Manager, Cloud Infrastructure',
+    position: 'Product Manager, Cloud Infrastructure',
     link: 'https://att.com',
     daterange: 'July 2020 - April 2021',
     points: [
@@ -90,7 +90,7 @@ const positions = [
   },
   {
     company: 'AT&T',
-    position: 'Technical Product Manager, FirstNet Public Safety',
+    position: 'Product Manager, FirstNet Public Safety',
     link: 'https://att.com',
     daterange: 'June 2019 - August 2019',
     points: [

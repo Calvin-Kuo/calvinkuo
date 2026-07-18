@@ -83,12 +83,37 @@ const skills = [
     category: ['Product & Project Management', 'Concepts'],
   },
   {
+    title: 'Stakeholder Management',
+    competency: 5,
+    category: ['Product & Project Management'],
+  },
+  {
+    title: 'Customer Discovery',
+    competency: 5,
+    category: ['Product & Project Management'],
+  },
+  {
+    title: 'Journey Mapping',
+    competency: 5,
+    category: ['Product & Project Management'],
+  },
+  {
+    title: 'User Research',
+    competency: 5,
+    category: ['Product & Project Management'],
+  },
+  {
     title: 'UI/UX Design-Thinking',
     competency: 5,
     category: ['Product & Project Management', 'Concepts'],
   },
   {
     title: 'Product Roadmap (0 to 1)',
+    competency: 5,
+    category: ['Product & Project Management'],
+  },
+  {
+    title: 'Product Strategy',
     competency: 5,
     category: ['Product & Project Management'],
   },
@@ -335,6 +360,11 @@ const skills = [
     title: 'Vector Embeddings / Vector Databases',
     competency: 2,
     category: ['Databases', 'Artificial Intelligence', 'Concepts'],
+  },
+  {
+    title: 'Model Context Protocol (MCP)',
+    competency: 3,
+    category: ['Artificial Intelligence', 'Concepts'],
   },
   /* {
     title: 'Dagster',

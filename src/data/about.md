@@ -1,19 +1,32 @@
 
 # Introduction
 
-Hello, my name is Calvin! My passion is to build profound products and services that enrich customer experiences and foster an innovative culture. I cross-functionally lead at the intersection between engineering and business management to holistically orchestrate the engineering process to define, design, develop, and launch impactful solutions to address complex problems.
+Hi, I'm Calvin!
 <br/><br/>
-If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I'm endlessly fascinated by solving difficult problems with ambiguous requirements. Whether it's building AI products, improving customer experiences, or helping organizations make better decisions with data, I love taking something complex and turning it into something intuitive and valuable.
+<br/><br/>
+Product management gives me the opportunity to combine everything I enjoy most: understanding people, learning new technologies, thinking strategically, and collaborating with talented teams to build profound products that make a real difference. I want my work to enrich lives and inspire innovation.
+<br/><br/>
+If you think we'd enjoy working together or you'd like to simply connect about product management, AI, investing, or technology, I'd love to hear from you.
 
 # Currently
 
-I am a Senior System Engineering Manager at [AT&T](https://att.com) working within the Data Artificial Intelligence team. I spearhead the end-to-end development of AT&T's artificial intelligence (AI) diagnostic software to astutely ingest and process 4G/5G broadband and geolocation metrics from millions of Android OS devices nationwide. We built agentic AI and LLM (GraphRag) features to automate processes, proactively address issues, and save effort across stakeholders. The insights generated accelerates network performance optimization, improves anomaly detection, and drives forward critical AI-driven initiatives such as wireless emergency alerts --which were used to notify people during the January 2025 Los Angeles wildfires. I own the planning, development, testing, and launch of over 15 software release candidates each year. Consistently, I cross-functionally collaborate with software engineers, data analysts, quality assurance engineers, legal, marketing, and OEMs (i.e.: Google, Samsung, Motorola) to deliver deliver quality and timely software solutions.
+I am a Senior Product Manager at [AT&T](https://att.com) building AI, data, and infrastructure products that solve complex technical problems at scale. My work spans generative AI, machine learning, cloud, and data platforms. I partner closely with engineers, business stakeholders, and customers to turn emerging technologies into products that deliver measurable business impact.
 <br/><br/>
-I have learned how to build teams, manage people, shape culture, develop relationships with customers, and triage critical issues in the development lifecycle. As a manager, I enjoy engaging with stakeholders to identify market opportunities and break complex problems down into actionable roadmaps. Serving as the critical bridge between technology and business, I have been able to touch many parts of the organization –from engineering teams to sales, marketing, and legal. My approach to product and project management is to experiment, build, fail fast, and think creatively and holistically to deliver game-changing technology innovations.
+I lead the product strategy and roadmap for iQ Insights, AT&T's AI-powered network intelligence platform, which processes billions of telemetry records daily to improve network reliability and accelerate issue resolution. I worked closely with engineering and data science teams to bring AI capabilities — including generative AI assistants and intelligent diagnostics — to network operations, helping reduce manual effort and enable faster, data-driven decisions.
 <br/><br/>
-I focus on uncovering opportunites to create value rather than focusing solely on backlog items. I continuously measure outcomes and decide action items based on evidence. I strive for partnership with people and never shy away from conflicts; I do not allow anti-patterns to get in my way. I inspire teams and empower them to solve meaningful problems however they see fit.
+What excites me most about product management is solving difficult customer problems. I enjoy translating complex technical systems into intuitive products, validating ideas with data, and making thoughtful tradeoffs between customer value, technical complexity, and business impact. Whether defining long-term strategy or launching new capabilities, my goal is to build products that customers love and that create lasting business value.
 <br/><br/>
-I earned a Master of Engineering in Engineering Management at [Cornell University](https://cornell.edu). I also hold a Bachelor of Science in Computer Science from [Rutgers University](https://rutgers.edu). On the side, I am passionate about personal finance, financial market analysis and investing, and entrepreneurship.
+I value curiosity over certainty, ownership over titles, and continuous learning over being right. I enjoy asking difficult questions, challenging assumptions respectfully, and creating alignment between engineering, business, and customers. The best teams I've worked with weren't defined by perfect execution—they were defined by trust, transparency, and a shared commitment to solving meaningful problems.
+<br/><br/>
+I earned my Master of Engineering in Engineering Management from [Cornell University](https://cornell.edu). I earned my Bachelor of Science in Computer Science from [Rutgers University](https://rutgers.edu). Outside of work, I'm passionate about investing, financial markets, entrepreneurship, and emerging AI technologies. I enjoy understanding how businesses create durable competitive advantages and thinking about the long-term impact AI will have across industries.
+
+# I Believe...
+Great product managers create value — not just roadmaps. Leadership is about creating an environment where talented people can do their best work.
+<br/><br/>
+The best ideas don't come from conference rooms; they come from deeply understanding customers, questioning assumptions, and validating decisions with evidence.
+<br/><br/>
+I've found that the most rewarding products are built when engineers, designers, and business leaders feel like they're solving the same problem together. My role is often less about having all the answers and more about creating clarity, aligning people around a common vision, and empowering teams to do their best work.
 
 # Some History
 
@@ -51,21 +64,23 @@ I earned a Master of Engineering in Engineering Management at [Cornell Universit
 
 - At 20, I learned about resiliency when faced with rejection. I interned as a software engineer for Johnson & Johnson and Huawei where I strengthened my understanding about cloud architecture.
 
-- At 21, I was selected to be a Computer Science instructor and taught my first university course. I also completed an internship with AT&T's Technology Development Program as a Technical Product Manager. This year I learned how to develop Augmented Reality (AR) and Virtual Reality (VR) applications.
+- At 21, I was selected to be a Computer Science instructor and taught my first university course. I also completed an internship with AT&T's Technology Development Program as a Product Manager working on FirstNet Public Safety. This year I learned how to develop Augmented Reality (AR) and Virtual Reality (VR) applications.
 
-- At 22, I graduated from Rutgers University with a Bachelor of Science in Computer Science. I joined AT&T as a Technical Product Manager as part of their Cloud Architecture team.
+- At 22, I graduated from Rutgers University with a Bachelor of Science in Computer Science. I joined AT&T as a Product Manager working on Cloud Infrastructure.
 
-- At 23, while working full-time, I began pursuing my Master of Engineering degree at Cornell University. I was also promoted to Senior Technical Product Manager at AT&T within the Enterprise Advertising Data team. 
+- At 23, while working full-time, I began pursuing my Master of Engineering degree at Cornell University. I was also promoted to Senior Product Manager at AT&T working on Xandr's Ads Data Platform. 
 
-- At 24, I filed my first patent with the U.S. Patent Office. After proven results and leadership recognition for my impact, I was promoted to Senior System Engineering Manager at AT&T working within the Data Artificial Intelligence team.
+- At 24, I filed my first patent with the U.S. Patent Office. After proven results and leadership recognition for my impact, I took on more ownership as a Senior Product Manager at AT&T working on Data & AI products (iQ Insights).
 
 - At 26, after years of strategic investing and diligent personal finance, I officially surpassed a net worth of $1 million and became a millionaire. I continue to stengthen my financial competencies in areas such as real estate and crypto.
 
-- At 27, well... this year is still being written...
+- At 27, I was awarded my first US Patent (US 12,272,174).
+
+- At 28, well... this year is still being written...
 
 Ask me in person for other stories that I am hesitant to share with the Internet.
 
-# I enjoy...
+# I Enjoy...
 
 - Investing and Trading Stocks
 - Personal Finance and Credit Cards
@@ -103,14 +118,14 @@ Ask me in person for other stories that I am hesitant to share with the Internet
 - I could juggle a soccer ball (or football for everyone outside the US) 100+ times without the ball hitting the ground.
 - I have a Fear of Missing Out --better known as FOMO. Consequently, I always "go for it" so I do not have regrets later.
 
-# I dream of...
+# I Dream Of...
 
-- making a profound impact on people's lives through technology.
-- flying a plane (and having passengers who trust me as a pilot).
-- always finding inspiration from new connections.
-- enabling a brighter future for those around me.
-- continuously learning to expand my horizons.
-- becoming a United Airlines Million Miler (I know... it is ludicrous).
+- Making a profound impact on people's lives through technology.
+- Earning my CPL and flying a plane (and having passengers who trust me as a pilot).
+- Always finding inspiration from new connections.
+- Creating a brighter future for those around me.
+- Continuously learning to expand my horizons.
+- Becoming a United Airlines Million Miler (I know... this is stupid).
 
 # People Who Inspire Me
 
